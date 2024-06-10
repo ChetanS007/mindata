@@ -403,6 +403,9 @@
                 font-size: 1.5em;
                 line-height: 1.6;
             }
+            .elementor img{
+                max-width: 100%!important;
+            }
         </style>
         <link rel="stylesheet" id="niche-frame-css" href="wp-content/plugins/events-addon-for-elementor/assets/css/niche-frame5152.css?ver=1.0" type="text/css" media="all" />
         <link rel="stylesheet" id="font-awesome-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
@@ -524,8 +527,8 @@
                                             class="attachment-large size-large"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
                                             "
                                             sizes="(max-width: 445px) 100vw, 445px"
                                         />
@@ -547,8 +550,8 @@
                                             class="attachment-full size-full"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
                                             "
                                             sizes="(max-width: 444px) 100vw, 444px"
                                         />
@@ -666,12 +669,12 @@
                                             decoding="async"
                                             width="445"
                                             height="600"
-                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg"
+                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-2.jpg"
                                             class="attachment-large size-large"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-2.jpg         445w,
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-2-223x300.jpg 223w
                                             "
                                             sizes="(max-width: 445px) 100vw, 445px"
                                         />
@@ -693,8 +696,8 @@
                                             class="attachment-full size-full"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
                                             "
                                             sizes="(max-width: 444px) 100vw, 444px"
                                         />
@@ -708,7 +711,7 @@
                                     data-widget_type="image.default"
                                 >
                                     <div class="elementor-widget-container">
-                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img2-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
+                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img3-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
                                     </div>
                                 </div>
                             </div>
@@ -731,12 +734,12 @@
                                             decoding="async"
                                             width="445"
                                             height="600"
-                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg"
+                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-3.jpg"
                                             class="attachment-large size-large"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-3.jpg         445w,
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-3-223x300.jpg 223w
                                             "
                                             sizes="(max-width: 445px) 100vw, 445px"
                                         />
@@ -758,8 +761,8 @@
                                             class="attachment-full size-full"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
                                             "
                                             sizes="(max-width: 444px) 100vw, 444px"
                                         />
@@ -773,7 +776,7 @@
                                     data-widget_type="image.default"
                                 >
                                     <div class="elementor-widget-container">
-                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img2-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
+                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/home-page-5th-sec-img.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
                                     </div>
                                 </div>
                             </div>
@@ -1002,12 +1005,12 @@
                                             decoding="async"
                                             width="445"
                                             height="600"
-                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg"
+                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-4.jpg"
                                             class="attachment-large size-large"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-4.jpg         445w,
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-4-223x300.jpg 223w
                                             "
                                             sizes="(max-width: 445px) 100vw, 445px"
                                         />
@@ -1029,8 +1032,8 @@
                                             class="attachment-full size-full"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
                                             "
                                             sizes="(max-width: 444px) 100vw, 444px"
                                         />
@@ -1044,7 +1047,7 @@
                                     data-widget_type="image.default"
                                 >
                                     <div class="elementor-widget-container">
-                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img2-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
+                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img4-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
                                     </div>
                                 </div>
                             </div>
@@ -1143,12 +1146,12 @@
                                             decoding="async"
                                             width="445"
                                             height="600"
-                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg"
+                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-5.jpg"
                                             class="attachment-large size-large"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-5.jpg         445w,
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-5-223x300.jpg 223w
                                             "
                                             sizes="(max-width: 445px) 100vw, 445px"
                                         />
@@ -1170,8 +1173,8 @@
                                             class="attachment-full size-full"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
                                             "
                                             sizes="(max-width: 444px) 100vw, 444px"
                                         />
@@ -1185,7 +1188,7 @@
                                     data-widget_type="image.default"
                                 >
                                     <div class="elementor-widget-container">
-                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img2-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
+                                        <img decoding="async" src="wp-content/uploads/elementor/thumbs/about-page-sec-img5-pjmmwcen73ymr469e5twlu87zbff0fdfp2e86ohc10.jpg" title="about-page-sec-img2" alt="about-page-sec-img2" />
                                     </div>
                                 </div>
                             </div>
@@ -1208,12 +1211,12 @@
                                             decoding="async"
                                             width="445"
                                             height="600"
-                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg"
+                                            src="wp-content/uploads/2022/01/about-page-1st-sec-img-6.jpg"
                                             class="attachment-large size-large"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/about-page-1st-sec-img-1-223x300.jpg 223w
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-6.jpg         445w,
+                                                 wp-content/uploads/2022/01/about-page-1st-sec-img-6-223x300.jpg 223w
                                             "
                                             sizes="(max-width: 445px) 100vw, 445px"
                                         />
@@ -1235,8 +1238,8 @@
                                             class="attachment-full size-full"
                                             alt=""
                                             srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
+                                                 wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
                                             "
                                             sizes="(max-width: 444px) 100vw, 444px"
                                         />
@@ -1310,7 +1313,7 @@
         <script type="text/javascript" id="elementskit-framework-js-frontend-js-after">
             /* <![CDATA[ */
             var elementskit = {
-                resturl: "https://elementorpress.com/templatekit-pro/layout31/wp-json/elementskit/v1/",
+                resturl: " wp-json/elementskit/v1/",
             };
 
             /* ]]> */
