@@ -636,7 +636,7 @@
                                     </center>
                                     <div class="elementor-container elementor-column-gap-default courses">
                                         <div
-                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element  elementor-element-a913348 elementor-invisible"
+                                            class="elementor-column elementor-col-100 elementor-inner-column elementor-element  elementor-element-a913348 elementor-invisible"
                                             data-id="a913348"
                                             data-element_type="column"
                                             data-settings='{"background_background":"classic","animation":"fadeInDown"}'
@@ -649,7 +649,7 @@
                                                 </div>
                                                 <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Memory Power Workshop</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Memory Power Workshop</h2><br>
                                                         <span class="elementor-icon-list-text">
                                                         	Memory workshop is a
 															combination of 20 Mind and Memory Power techniques which makes
@@ -662,25 +662,34 @@
 															memorize any topic in one attempt after enough practicing the
 															Memory Techniques.
                                                         </span>
-                                                    </div>
-
-                                                    <br><br>
+                                                    </div> 
+                                                </div> 
+                                            </div>
+                                        </div> 
+                                    </div><br><br>
+                                    <div class="elementor-container elementor-column-gap-default courses">
+                                        <div
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-784285e elementor-invisible"
+                                            data-id="784285e"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated ">
+                                                <div class="elementor-element elementor-element-7c5a109 elementor-widget elementor-widget-text-editor" data-id="7c5a109" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                        4 Days -
                                                     </div>
                                                 </div>
-                                                 
-                                                <div class="elementor-element elementor-element-72c54eb elementor-widget elementor-widget-button" data-id="72c54eb" data-element_type="widget" data-widget_type="button.default">
+                                                <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <div class="elementor-button-wrapper">
-                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
-                                                                <span class="elementor-button-content-wrapper">
-                                                                    <span class="elementor-button-text">Get Started</span>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Teachers Training Workshop </h2><br>
+                                                        <span class="elementor-icon-list-text">
+                                                            It’s the combination of many
+                                                            techniques for public speaking, body language, tonality, personality
+                                                            development, etc. with Placement guaranty.
+                                                        </span>
+                                                    </div> 
+                                                </div> 
                                             </div>
                                         </div>
                                         <div
@@ -689,69 +698,46 @@
                                             data-element_type="column"
                                             data-settings='{"background_background":"classic","animation":"fadeIn"}'
                                         >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-af12634 elementor-widget elementor-widget-text-editor" data-id="af12634" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-wrap elementor-element-populated ">
+                                                <div class="elementor-element elementor-element-7c5a109 elementor-widget elementor-widget-text-editor" data-id="7c5a109" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        5th std -
+                                                       7 Days -
                                                     </div>
-                                                    
                                                 </div>
-                                                <div class="elementor-element elementor-element-257b97e elementor-widget elementor-widget-heading" data-id="257b97e" data-element_type="widget" data-widget_type="heading.default">
+                                                <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
-                                                    </div><br><br>
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
-                                                    </div>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Train the trainers</h2><br>
+                                                        <span class="elementor-icon-list-text">
+                                                            This program is to make more trainers like
+                                                            Mr. Saurabh himself. Trainer will get Training for more than 6
+                                                            modules so that they can start their own business.
+                                                        </span>
+                                                    </div> 
                                                 </div> 
-                                                <div class="elementor-element elementor-element-d19a88a elementor-widget elementor-widget-button" data-id="d19a88a" data-element_type="widget" data-widget_type="button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-button-wrapper">
-                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
-                                                                <span class="elementor-button-content-wrapper">
-                                                                    <span class="elementor-button-text">Get Started</span>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                         <div
-                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9c9169d elementor-invisible"
-                                            data-id="9c9169d"
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-784285e elementor-invisible"
+                                            data-id="784285e"
                                             data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
+                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
                                         >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-36921af elementor-widget elementor-widget-text-editor" data-id="36921af" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-wrap elementor-element-populated ">
+                                                <div class="elementor-element elementor-element-7c5a109 elementor-widget elementor-widget-text-editor" data-id="7c5a109" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        6th std -
+                                                        2 Hours -
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-4b8679c elementor-widget elementor-widget-heading" data-id="4b8679c" data-element_type="widget" data-widget_type="heading.default">
+                                                <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
-                                                    </div>
-
-                                                    <br><br>
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
-                                                    </div>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Parenting Session </h2><br>
+                                                        <span class="elementor-icon-list-text">
+                                                            It’s the combination of many
+                                                            techniques for public speaking, body language, tonality, personality
+                                                            development, etc. with Placement guaranty.
+                                                        </span>
+                                                    </div> 
                                                 </div> 
-                                                <div class="elementor-element elementor-element-5da7efb elementor-widget elementor-widget-button" data-id="5da7efb" data-element_type="widget" data-widget_type="button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-button-wrapper">
-                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
-                                                                <span class="elementor-button-content-wrapper">
-                                                                    <span class="elementor-button-text">Get Started</span>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
                                             </div>
                                         </div>
                                     </div>
