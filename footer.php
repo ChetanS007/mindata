@@ -128,6 +128,9 @@
                                                 .rtl .elementor-widget-divider .elementor-divider__text {
                                                     direction: rtl;
                                                 }
+                                                li{
+                                                    list-style: none;
+                                                }
                                             </style>
                                             <div class="elementor-divider">
                                                 <span class="elementor-divider-separator"> </span>

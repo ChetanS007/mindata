@@ -9,8 +9,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Team &#8211; wellbeing</title>
         <meta name="robots" content="max-image-preview:large" />
-        <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Feed" href="../feed/index.html" />
-        <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Comments Feed" href="../comments/feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Feed" href=" feed/index.html" />
+        <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Comments Feed" href=" comments/feed/index.html" />
         <script type="text/javascript">
             /* <![CDATA[ */
             window._wpemojiSettings = {
@@ -115,11 +115,11 @@
             })((window, document), window._wpemojiSettings);
             /* ]]> */
         </script>
-        <link rel="stylesheet" id="elementor-frontend-css" href="../wp-content/plugins/elementor/assets/css/frontend-lite.mine248.css?ver=3.5.4" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-6-css" href="../wp-content/uploads/elementor/css/post-60c5e.css?ver=1643613599" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-5-all-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/all.mine248.css?ver=3.5.4" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-4-shim-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.mine248.css?ver=3.5.4" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-2856-css" href="../wp-content/uploads/elementor/css/post-28560c5e.css?ver=1643613599" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-frontend-css" href=" wp-content/plugins/elementor/assets/css/frontend-lite.mine248.css?ver=3.5.4" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-6-css" href=" wp-content/uploads/elementor/css/post-60c5e.css?ver=1643613599" type="text/css" media="all" />
+        <link rel="stylesheet" id="font-awesome-5-all-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/all.mine248.css?ver=3.5.4" type="text/css" media="all" />
+        <link rel="stylesheet" id="font-awesome-4-shim-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.mine248.css?ver=3.5.4" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-2856-css" href=" wp-content/uploads/elementor/css/post-28560c5e.css?ver=1643613599" type="text/css" media="all" />
         <style id="wp-emoji-styles-inline-css" type="text/css">
             img.wp-smiley,
             img.emoji {
@@ -134,7 +134,7 @@
                 padding: 0 !important;
             }
         </style>
-        <link rel="stylesheet" id="wp-block-library-css" href="../wp-includes/css/dist/block-library/style.minef10.css?ver=6.5.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="wp-block-library-css" href=" wp-includes/css/dist/block-library/style.minef10.css?ver=6.5.3" type="text/css" media="all" />
         <style id="classic-theme-styles-inline-css" type="text/css">
             /*! This file is auto-generated */
             .wp-block-button__link {
@@ -405,25 +405,25 @@
                 line-height: 1.6;
             }
         </style>
-        <link rel="stylesheet" id="niche-frame-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/niche-frame5152.css?ver=1.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="font-awesome-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="animate-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/animate.minf3df.css?ver=3.7.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="themify-icons-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/themify-icons.min8a54.css?ver=1.0.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="linea-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/linea.min8a54.css?ver=1.0.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="magnific-popup-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/magnific-popup.min5152.css?ver=1.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="owl-carousel-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/owl.carousel.min531b.css?ver=2.3.4" type="text/css" media="all" />
-        <link rel="stylesheet" id="juxtapose-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/juxtapose5152.css?ver=1.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="naevents-styles-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/stylesef6d.css?ver=1.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="naevents-responsive-css" href="../wp-content/plugins/events-addon-for-elementor/assets/css/responsiveef6d.css?ver=1.8.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="template-kit-export-css" href="../wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21" type="text/css" media="all" />
-        <link rel="stylesheet" id="hello-elementor-css" href="../wp-content/themes/hello-elementor/style.mina305.css?ver=2.4.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="hello-elementor-theme-style-css" href="../wp-content/themes/hello-elementor/theme.mina305.css?ver=2.4.2" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-5-css" href="../wp-content/uploads/elementor/css/post-50c5e.css?ver=1643613599" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-icons-ekiticons-css" href="../wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons91ee.css?ver=2.5.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-icons-css" href="../wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mine900.css?ver=5.14.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-4320-css" href="../wp-content/uploads/elementor/css/post-43208965.css?ver=1643613644" type="text/css" media="all" />
-        <link rel="stylesheet" id="ekit-widget-styles-css" href="../wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles91ee.css?ver=2.5.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="ekit-responsive-css" href="../wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive91ee.css?ver=2.5.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="niche-frame-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/niche-frame5152.css?ver=1.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="font-awesome-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="animate-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/animate.minf3df.css?ver=3.7.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="themify-icons-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/themify-icons.min8a54.css?ver=1.0.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="linea-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/linea.min8a54.css?ver=1.0.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="magnific-popup-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/magnific-popup.min5152.css?ver=1.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="owl-carousel-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/owl.carousel.min531b.css?ver=2.3.4" type="text/css" media="all" />
+        <link rel="stylesheet" id="juxtapose-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/juxtapose5152.css?ver=1.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="naevents-styles-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/stylesef6d.css?ver=1.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="naevents-responsive-css" href=" wp-content/plugins/events-addon-for-elementor/assets/css/responsiveef6d.css?ver=1.8.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="template-kit-export-css" href=" wp-content/plugins/template-kit-export/public/assets/css/template-kit-export-public.min365c.css?ver=1.0.21" type="text/css" media="all" />
+        <link rel="stylesheet" id="hello-elementor-css" href=" wp-content/themes/hello-elementor/style.mina305.css?ver=2.4.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="hello-elementor-theme-style-css" href=" wp-content/themes/hello-elementor/theme.mina305.css?ver=2.4.2" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-5-css" href=" wp-content/uploads/elementor/css/post-50c5e.css?ver=1643613599" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-icons-ekiticons-css" href=" wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons91ee.css?ver=2.5.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-icons-css" href=" wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mine900.css?ver=5.14.0" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-4320-css" href=" wp-content/uploads/elementor/css/post-43208965.css?ver=1643613644" type="text/css" media="all" />
+        <link rel="stylesheet" id="ekit-widget-styles-css" href=" wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles91ee.css?ver=2.5.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="ekit-responsive-css" href=" wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive91ee.css?ver=2.5.3" type="text/css" media="all" />
         <link
             rel="stylesheet"
             id="google-fonts-1-css"
@@ -431,242 +431,29 @@
             type="text/css"
             media="all"
         />
-        <link rel="stylesheet" id="elementor-icons-shared-0-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-icons-fa-solid-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-icons-fa-regular-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-icons-fa-brands-css" href="../wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3" type="text/css" media="all" />
-        <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.mine248.js?ver=3.5.4" id="font-awesome-4-shim-js"></script>
-        <script type="text/javascript" src="../wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
-        <script type="text/javascript" src="../wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21" id="template-kit-export-js"></script>
-        <link rel="https://api.w.org/" href="../wp-json/index.html" />
-        <link rel="alternate" type="application/json" href="../wp-json/wp/v2/pages/4320.json" />
-        <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc0db0.php?rsd" />
+        <link rel="stylesheet" id="elementor-icons-shared-0-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min52d5.css?ver=5.15.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-icons-fa-solid-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min52d5.css?ver=5.15.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-icons-fa-regular-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min52d5.css?ver=5.15.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-icons-fa-brands-css" href=" wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min52d5.css?ver=5.15.3" type="text/css" media="all" />
+        <script type="text/javascript" src=" wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.mine248.js?ver=3.5.4" id="font-awesome-4-shim-js"></script>
+        <script type="text/javascript" src=" wp-includes/js/jquery/jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+        <script type="text/javascript" src=" wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21" id="template-kit-export-js"></script>
+        <link rel="https://api.w.org/" href=" wp-json/index.html" />
+        <link rel="alternate" type="application/json" href=" wp-json/wp/v2/pages/4320.json" />
+        <link rel="EditURI" type="application/rsd+xml" title="RSD" href=" xmlrpc0db0.php?rsd" />
         <meta name="generator" content="WordPress 6.5.3" />
         <link rel="canonical" href="index.html" />
-        <link rel="shortlink" href="../indexa791.html?p=4320" />
-        <link rel="alternate" type="application/json+oembed" href="../wp-json/oembed/1.0/embed5b70.json?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Fteam%2F" />
-        <link rel="alternate" type="text/xml+oembed" href="../wp-json/oembed/1.0/embedffae?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Fteam%2F&amp;format=xml" />
+        <link rel="shortlink" href=" indexa791.html?p=4320" />
+        <link rel="alternate" type="application/json+oembed" href=" wp-json/oembed/1.0/embed5b70.json?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Fteam%2F" />
+        <link rel="alternate" type="text/xml+oembed" href=" wp-json/oembed/1.0/embedffae?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Fteam%2F&amp;format=xml" />
     </head>
     <body class="page-template page-template-elementor_header_footer page page-id-4320 elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-4320">
-        <div class="ekit-template-content-markup ekit-template-content-header ekit-template-content-theme-support">
-            <div data-elementor-type="wp-post" data-elementor-id="6" class="elementor elementor-6" data-elementor-settings="[]">
-                <div class="elementor-section-wrap">
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-a5aa493 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="a5aa493"
-                        data-element_type="section"
-                    >
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ee2ee09" data-id="ee2ee09" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <section
-                                        class="elementor-section elementor-inner-section elementor-element elementor-element-80b8d45 elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                                        data-id="80b8d45"
-                                        data-element_type="section"
-                                    >
-                                        <div class="elementor-container elementor-column-gap-default">
-                                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-24db0c7" data-id="24db0c7" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-b917e69 elementor-widget elementor-widget-image" data-id="b917e69" data-element_type="widget" data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <style>
-                                                                /*! elementor - v3.5.4 - 23-01-2022 */
-                                                                .elementor-widget-image {
-                                                                    text-align: center;
-                                                                }
-                                                                .elementor-widget-image a {
-                                                                    display: inline-block;
-                                                                }
-                                                                .elementor-widget-image a img[src$=".svg"] {
-                                                                    width: 48px;
-                                                                }
-                                                                .elementor-widget-image img {
-                                                                    vertical-align: middle;
-                                                                    display: inline-block;
-                                                                }
-                                                            </style>
-                                                            <img width="199" height="40" src="../wp-content/uploads/2021/12/logo.png" class="attachment-full size-full" alt="" />
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2beda11" data-id="2beda11" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div
-                                                        class="elementor-element elementor-element-aeda8f3 elementor-widget elementor-widget-ekit-nav-menu"
-                                                        data-id="aeda8f3"
-                                                        data-element_type="widget"
-                                                        data-widget_type="ekit-nav-menu.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <div class="ekit-wid-con ekit_menu_responsive_tablet" data-hamburger-icon="" data-hamburger-icon-type="icon" data-responsive-breakpoint="1024">
-                                                                <button class="elementskit-menu-hamburger elementskit-menu-toggler">
-                                                                    <span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span><span class="elementskit-menu-hamburger-icon"></span>
-                                                                </button>
-                                                                <div
-                                                                    id="ekit-megamenu-main-menu"
-                                                                    class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_fill_arrow ekit-nav-menu-one-page-no ekit-nav-dropdown-hover"
-                                                                >
-                                                                    <ul id="menu-main-menu" class="elementskit-navbar-nav elementskit-menu-po-center submenu-click-on-icon">
-                                                                        <li
-                                                                            id="menu-item-51"
-                                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-51 nav-item elementskit-mobile-builder-content"
-                                                                            data-vertical-menu="750px"
-                                                                        >
-                                                                            <a href="../index.html" class="ekit-menu-nav-link">Home</a>
-                                                                        </li>
-                                                                        <li
-                                                                            id="menu-item-50"
-                                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-50 nav-item elementskit-mobile-builder-content"
-                                                                            data-vertical-menu="750px"
-                                                                        >
-                                                                            <a href="../about/index.html" class="ekit-menu-nav-link">About</a>
-                                                                        </li>
-                                                                        <li
-                                                                            id="menu-item-46"
-                                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46 nav-item elementskit-mobile-builder-content"
-                                                                            data-vertical-menu="750px"
-                                                                        >
-                                                                            <a href="../contact/index.html" class="ekit-menu-nav-link">Contact</a>
-                                                                        </li>
-                                                                        <li
-                                                                            id="menu-item-5387"
-                                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5387 nav-item elementskit-mobile-builder-content"
-                                                                            data-vertical-menu="750px"
-                                                                        >
-                                                                            <a href="../testimonials/index.html" class="ekit-menu-nav-link">Testimonials</a>
-                                                                        </li>
-                                                                        <li
-                                                                            id="menu-item-5389"
-                                                                            class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-4320 current_page_item menu-item-5389 nav-item elementskit-mobile-builder-content active"
-                                                                            data-vertical-menu="750px"
-                                                                        >
-                                                                            <a href="index.html" class="ekit-menu-nav-link active">Team</a>
-                                                                        </li>
-                                                                        <li
-                                                                            id="menu-item-5394"
-                                                                            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-5394 nav-item elementskit-dropdown-has relative_position elementskit-dropdown-menu-default_width elementskit-mobile-builder-content"
-                                                                            data-vertical-menu="750px"
-                                                                        >
-                                                                            <a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">More<i class="icon icon-down-arrow1 elementskit-submenu-indicator"></i></a>
-                                                                            <ul class="elementskit-dropdown elementskit-submenu-panel">
-                                                                                <li
-                                                                                    id="menu-item-5388"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5388 nav-item elementskit-mobile-builder-content"
-                                                                                    data-vertical-menu="750px"
-                                                                                >
-                                                                                    <a href="../price/index.html" class="dropdown-item">Price</a>
-                                                                                </li>
-                                                                                <li
-                                                                                    id="menu-item-5393"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5393 nav-item elementskit-mobile-builder-content"
-                                                                                    data-vertical-menu="750px"
-                                                                                >
-                                                                                    <a href="../video-tutorials/index.html" class="dropdown-item">Video Tutorials</a>
-                                                                                </li>
-                                                                                <li
-                                                                                    id="menu-item-5392"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5392 nav-item elementskit-mobile-builder-content"
-                                                                                    data-vertical-menu="750px"
-                                                                                >
-                                                                                    <a href="../faqs/index.html" class="dropdown-item">FAQ</a>
-                                                                                </li>
-                                                                                <li
-                                                                                    id="menu-item-6514"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6514 nav-item elementskit-mobile-builder-content"
-                                                                                    data-vertical-menu="750px"
-                                                                                >
-                                                                                    <a href="../benefits/index.html" class="dropdown-item">Benefits</a>
-                                                                                </li>
-                                                                                <li
-                                                                                    id="menu-item-5391"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5391 nav-item elementskit-mobile-builder-content"
-                                                                                    data-vertical-menu="750px"
-                                                                                >
-                                                                                    <a href="../coming-soon/index.html" class="dropdown-item">Coming Soon</a>
-                                                                                </li>
-                                                                                <li
-                                                                                    id="menu-item-5390"
-                                                                                    class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5390 nav-item elementskit-mobile-builder-content"
-                                                                                    data-vertical-menu="750px"
-                                                                                >
-                                                                                    <a href="../404-2/index.html" class="dropdown-item">404</a>
-                                                                                </li>
-                                                                            </ul>
-                                                                        </li>
-                                                                    </ul>
-                                                                    <div class="elementskit-nav-identity-panel">
-                                                                        <div class="elementskit-site-title">
-                                                                            <a class="elementskit-nav-logo" href="https://elementorpress.com/templatekit-pro/layout31" target="_self" rel="">
-                                                                                <img width="204" height="40" src="../wp-content/uploads/2022/01/footer-logo.png" class="attachment-full size-full" alt="" decoding="async" />
-                                                                            </a>
-                                                                        </div>
-                                                                        <button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
-                                                                    </div>
-                                                                </div>
-                                                                <div class="elementskit-menu-overlay elementskit-menu-offcanvas-elements elementskit-menu-toggler ekit-nav-menu--overlay"></div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5b19397 elementor-hidden-tablet elementor-hidden-mobile"
-                                                data-id="5b19397"
-                                                data-element_type="column"
-                                            >
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div
-                                                        class="elementor-element elementor-element-eec147a elementor-hidden-tablet elementor-hidden-mobile elementor-align-right elementor-widget elementor-widget-button"
-                                                        data-id="eec147a"
-                                                        data-element_type="widget"
-                                                        data-widget_type="button.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-button-wrapper">
-                                                                <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                    <span class="elementor-button-content-wrapper">
-                                                                        <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="fas fa-unlock"></i> </span>
-                                                                        <span class="elementor-button-text">Login</span>
-                                                                    </span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1493945 elementor-hidden-tablet elementor-hidden-mobile"
-                                                data-id="1493945"
-                                                data-element_type="column"
-                                            >
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-944c8a0 elementor-widget elementor-widget-button" data-id="944c8a0" data-element_type="widget" data-widget_type="button.default">
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-button-wrapper">
-                                                                <a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-                                                                    <span class="elementor-button-content-wrapper">
-                                                                        <span class="elementor-button-icon elementor-align-icon-left"> <i aria-hidden="true" class="far fa-edit"></i> </span>
-                                                                        <span class="elementor-button-text">Register </span>
-                                                                    </span>
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
+        
+        <?php include 'header.php';?>
+
         <div data-elementor-type="wp-page" data-elementor-id="4320" class="elementor elementor-4320" data-elementor-settings="[]">
-            <div class="elementor-section-wrap">
+            <div class="elementor-section-wrap" style="margin-top: 8%;">
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-bf30494 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="bf30494"
@@ -709,276 +496,7 @@
                                         </style>
                                         <h2 class="elementor-heading-title elementor-size-default">Our Professional Team</h2>
                                     </div>
-                                </div>
-                                <div class="elementor-element elementor-element-53d3fba elementor-widget elementor-widget-text-editor" data-id="53d3fba" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                        <style>
-                                            /*! elementor - v3.5.4 - 23-01-2022 */
-                                            .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap {
-                                                background-color: #818a91;
-                                                color: #fff;
-                                            }
-                                            .elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap {
-                                                color: #818a91;
-                                                border: 3px solid;
-                                                background-color: transparent;
-                                            }
-                                            .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap {
-                                                margin-top: 8px;
-                                            }
-                                            .elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter {
-                                                width: 1em;
-                                                height: 1em;
-                                            }
-                                            .elementor-widget-text-editor .elementor-drop-cap {
-                                                float: left;
-                                                text-align: center;
-                                                line-height: 1;
-                                                font-size: 50px;
-                                            }
-                                            .elementor-widget-text-editor .elementor-drop-cap-letter {
-                                                display: inline-block;
-                                            }
-                                        </style>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                    </div>
-                                </div>
-                                <div
-                                    class="elementor-element elementor-element-9a4feca elementor-align-center elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                    data-id="9a4feca"
-                                    data-element_type="widget"
-                                    data-widget_type="icon-list.default"
-                                >
-                                    <div class="elementor-widget-container">
-                                        <style>
-                                            /*! elementor - v3.5.4 - 23-01-2022 */
-                                            .elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container {
-                                                overflow: hidden;
-                                            }
-                                            .elementor-widget .elementor-icon-list-items.elementor-inline-items {
-                                                margin-right: -8px;
-                                                margin-left: -8px;
-                                            }
-                                            .elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item {
-                                                margin-right: 8px;
-                                                margin-left: 8px;
-                                            }
-                                            .elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after {
-                                                width: auto;
-                                                left: auto;
-                                                right: auto;
-                                                position: relative;
-                                                height: 100%;
-                                                border-top: 0;
-                                                border-bottom: 0;
-                                                border-right: 0;
-                                                border-left-width: 1px;
-                                                border-style: solid;
-                                                right: -8px;
-                                            }
-                                            .elementor-widget .elementor-icon-list-items {
-                                                list-style-type: none;
-                                                margin: 0;
-                                                padding: 0;
-                                            }
-                                            .elementor-widget .elementor-icon-list-item {
-                                                margin: 0;
-                                                padding: 0;
-                                                position: relative;
-                                            }
-                                            .elementor-widget .elementor-icon-list-item:after {
-                                                position: absolute;
-                                                bottom: 0;
-                                                width: 100%;
-                                            }
-                                            .elementor-widget .elementor-icon-list-item,
-                                            .elementor-widget .elementor-icon-list-item a {
-                                                display: -webkit-box;
-                                                display: -ms-flexbox;
-                                                display: flex;
-                                                -webkit-box-align: center;
-                                                -ms-flex-align: center;
-                                                align-items: center;
-                                                font-size: inherit;
-                                            }
-                                            .elementor-widget .elementor-icon-list-icon + .elementor-icon-list-text {
-                                                -ms-flex-item-align: center;
-                                                align-self: center;
-                                                padding-left: 5px;
-                                            }
-                                            .elementor-widget .elementor-icon-list-icon {
-                                                display: -webkit-box;
-                                                display: -ms-flexbox;
-                                                display: flex;
-                                            }
-                                            .elementor-widget .elementor-icon-list-icon svg {
-                                                width: var(--e-icon-list-icon-size, 1em);
-                                                height: var(--e-icon-list-icon-size, 1em);
-                                            }
-                                            .elementor-widget .elementor-icon-list-icon i {
-                                                width: 1.25em;
-                                                font-size: var(--e-icon-list-icon-size);
-                                            }
-                                            .elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon {
-                                                text-align: var(--e-icon-list-icon-align);
-                                            }
-                                            .elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg {
-                                                margin: var(--e-icon-list-icon-margin, 0 calc(var(--e-icon-list-icon-size, 1em) * 0.25) 0 0);
-                                            }
-                                            .elementor-widget.elementor-list-item-link-full_width a {
-                                                width: 100%;
-                                            }
-                                            .elementor-widget.elementor-align-center .elementor-icon-list-item,
-                                            .elementor-widget.elementor-align-center .elementor-icon-list-item a {
-                                                -webkit-box-pack: center;
-                                                -ms-flex-pack: center;
-                                                justify-content: center;
-                                            }
-                                            .elementor-widget.elementor-align-center .elementor-icon-list-item:after {
-                                                margin: auto;
-                                            }
-                                            .elementor-widget.elementor-align-center .elementor-inline-items {
-                                                -webkit-box-pack: center;
-                                                -ms-flex-pack: center;
-                                                justify-content: center;
-                                            }
-                                            .elementor-widget.elementor-align-left .elementor-icon-list-item,
-                                            .elementor-widget.elementor-align-left .elementor-icon-list-item a {
-                                                -webkit-box-pack: start;
-                                                -ms-flex-pack: start;
-                                                justify-content: flex-start;
-                                                text-align: left;
-                                            }
-                                            .elementor-widget.elementor-align-left .elementor-inline-items {
-                                                -webkit-box-pack: start;
-                                                -ms-flex-pack: start;
-                                                justify-content: flex-start;
-                                            }
-                                            .elementor-widget.elementor-align-right .elementor-icon-list-item,
-                                            .elementor-widget.elementor-align-right .elementor-icon-list-item a {
-                                                -webkit-box-pack: end;
-                                                -ms-flex-pack: end;
-                                                justify-content: flex-end;
-                                                text-align: right;
-                                            }
-                                            .elementor-widget.elementor-align-right .elementor-icon-list-items {
-                                                -webkit-box-pack: end;
-                                                -ms-flex-pack: end;
-                                                justify-content: flex-end;
-                                            }
-                                            .elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after {
-                                                left: 0;
-                                            }
-                                            .elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after {
-                                                right: 0;
-                                            }
-                                            @media (max-width: 1024px) {
-                                                .elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,
-                                                .elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,
-                                                .elementor-widget.elementor-tablet-align-center .elementor-icon-list-items {
-                                                    -webkit-box-pack: center;
-                                                    -ms-flex-pack: center;
-                                                    justify-content: center;
-                                                }
-                                                .elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after {
-                                                    margin: auto;
-                                                }
-                                                .elementor-widget.elementor-tablet-align-left .elementor-icon-list-items {
-                                                    -webkit-box-pack: start;
-                                                    -ms-flex-pack: start;
-                                                    justify-content: flex-start;
-                                                }
-                                                .elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,
-                                                .elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a {
-                                                    -webkit-box-pack: start;
-                                                    -ms-flex-pack: start;
-                                                    justify-content: flex-start;
-                                                    text-align: left;
-                                                }
-                                                .elementor-widget.elementor-tablet-align-right .elementor-icon-list-items {
-                                                    -webkit-box-pack: end;
-                                                    -ms-flex-pack: end;
-                                                    justify-content: flex-end;
-                                                }
-                                                .elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,
-                                                .elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a {
-                                                    -webkit-box-pack: end;
-                                                    -ms-flex-pack: end;
-                                                    justify-content: flex-end;
-                                                    text-align: right;
-                                                }
-                                                .elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after {
-                                                    left: 0;
-                                                }
-                                                .elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after {
-                                                    right: 0;
-                                                }
-                                            }
-                                            @media (max-width: 767px) {
-                                                .elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,
-                                                .elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,
-                                                .elementor-widget.elementor-mobile-align-center .elementor-icon-list-items {
-                                                    -webkit-box-pack: center;
-                                                    -ms-flex-pack: center;
-                                                    justify-content: center;
-                                                }
-                                                .elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after {
-                                                    margin: auto;
-                                                }
-                                                .elementor-widget.elementor-mobile-align-left .elementor-icon-list-items {
-                                                    -webkit-box-pack: start;
-                                                    -ms-flex-pack: start;
-                                                    justify-content: flex-start;
-                                                }
-                                                .elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,
-                                                .elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a {
-                                                    -webkit-box-pack: start;
-                                                    -ms-flex-pack: start;
-                                                    justify-content: flex-start;
-                                                    text-align: left;
-                                                }
-                                                .elementor-widget.elementor-mobile-align-right .elementor-icon-list-items {
-                                                    -webkit-box-pack: end;
-                                                    -ms-flex-pack: end;
-                                                    justify-content: flex-end;
-                                                }
-                                                .elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,
-                                                .elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a {
-                                                    -webkit-box-pack: end;
-                                                    -ms-flex-pack: end;
-                                                    justify-content: flex-end;
-                                                    text-align: right;
-                                                }
-                                                .elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after {
-                                                    left: 0;
-                                                }
-                                                .elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after {
-                                                    right: 0;
-                                                }
-                                            }
-                                        </style>
-                                        <ul class="elementor-icon-list-items">
-                                            <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-text">Home</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div
-                                    class="elementor-element elementor-element-cabe340 elementor-align-center elementor-widget__width-auto elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                    data-id="cabe340"
-                                    data-element_type="widget"
-                                    data-widget_type="icon-list.default"
-                                >
-                                    <div class="elementor-widget-container">
-                                        <ul class="elementor-icon-list-items">
-                                            <li class="elementor-icon-list-item">
-                                                <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-minus"></i> </span>
-                                                <span class="elementor-icon-list-text">Team</span>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
+                                </div> 
                             </div>
                         </div>
                     </div>
@@ -1015,17 +533,291 @@
                                                     data-widget_type="image.default"
                                                 >
                                                     <div class="elementor-widget-container">
-                                                        <img decoding="async" width="215" height="210" src="../wp-content/uploads/2022/01/professionals-img-1.png" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                        <img decoding="async" width="215" height="210" src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg" style="border-radius: 12px;" class="elementor-animation-float attachment-full size-full" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-c0c57b8 elementor-widget elementor-widget-heading" data-id="c0c57b8" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Taylor Parkes</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Ankita Wakode</h2>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-38763ae elementor-widget elementor-widget-text-editor" data-id="38763ae" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        Motivation Speaker
+                                                        Fitness and yoga Instructor
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2d23133 elementor-invisible"
+                                            data-id="2d23133"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-0bbfd95 elementor-widget elementor-widget-image" data-id="0bbfd95" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <img decoding="async" width="214" height="210" src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg" style="border-radius: 12px;" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-da4bc1f elementor-widget elementor-widget-heading" data-id="da4bc1f" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Nisha Dubey</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-9a991a9 elementor-widget elementor-widget-text-editor" data-id="9a991a9" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Parenting Expert
+                                                    </div>
+                                                </div>
+                                                 
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3f6471b elementor-invisible"
+                                            data-id="3f6471b"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-f06fb18 elementor-widget elementor-widget-image" data-id="f06fb18" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <img decoding="async" width="214" height="210" src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg" style="border-radius: 12px;" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-1687f33 elementor-widget elementor-widget-heading" data-id="1687f33" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Snehal Ingole</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-15bc35e elementor-widget elementor-widget-text-editor" data-id="15bc35e" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Communication Skill Expert
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b84668e elementor-invisible"
+                                            data-id="b84668e"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-83996dc elementor-widget elementor-widget-image" data-id="83996dc" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="214"
+                                                            height="210"
+                                                            src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg"
+                                                            style="border-radius: 12px;" class="elementor-animation-float attachment-full size-full"
+                                                            alt=""
+                                                        />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-94cb435 elementor-widget elementor-widget-heading" data-id="94cb435" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Pooja Sahare</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-8bbfe93 elementor-widget elementor-widget-text-editor" data-id="8bbfe93" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Personality Development Expert
+                                                    </div>
+                                                </div>
+                                                 
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </section> 
+
+                                <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-32cac49 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="32cac49"
+                                    data-element_type="section"
+                                    data-settings='{"background_background":"classic"}'
+                                >
+                                    <div class="elementor-background-overlay"></div>
+                                    <div class="elementor-container elementor-column-gap-default">
+                                        <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8946a1c elementor-invisible"
+                                            data-id="8946a1c"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div
+                                                    class="elementor-element elementor-element-8a2f806 animated-slow elementor-widget elementor-widget-image"
+                                                    data-id="8a2f806"
+                                                    data-element_type="widget"
+                                                    data-settings='{"_animation":"none","_animation_delay":1}'
+                                                    data-widget_type="image.default"
+                                                >
+                                                    <div class="elementor-widget-container">
+                                                        <img decoding="async" width="215" height="210" src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg" style="border-radius: 12px;" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-c0c57b8 elementor-widget elementor-widget-heading" data-id="c0c57b8" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs Sheetal Tiwari</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-38763ae elementor-widget elementor-widget-text-editor" data-id="38763ae" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Subject Teacher
+                                                    </div>
+                                                </div> 
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2d23133 elementor-invisible"
+                                            data-id="2d23133"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-0bbfd95 elementor-widget elementor-widget-image" data-id="0bbfd95" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <img decoding="async" width="214" height="210" src="https://med.gov.bz/wp-content/uploads/2020/08/dummy-profile-pic.jpg" class="elementor-animation-float attachment-full size-full" style="border-radius: 12px;"  alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-da4bc1f elementor-widget elementor-widget-heading" data-id="da4bc1f" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mr. Agrawal</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-9a991a9 elementor-widget elementor-widget-text-editor" data-id="9a991a9" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Commerce Expert
+                                                    </div>
+                                                </div>
+                                                 
+                                            </div>
+                                        </div>
+                                        <!-- <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3f6471b elementor-invisible"
+                                            data-id="3f6471b"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-f06fb18 elementor-widget elementor-widget-image" data-id="f06fb18" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <img decoding="async" width="214" height="210" src=" wp-content/uploads/2022/01/professionals-img-3.png" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-1687f33 elementor-widget elementor-widget-heading" data-id="1687f33" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Snehal Ingole</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-15bc35e elementor-widget elementor-widget-text-editor" data-id="15bc35e" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Communication Skill Expert
+                                                    </div>
+                                                </div>
+                                                <div
+                                                    class="elementor-element elementor-element-dcf84fb elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
+                                                    data-id="dcf84fb"
+                                                    data-element_type="widget"
+                                                    data-widget_type="social-icons.default"
+                                                >
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-social-icons-wrapper elementor-grid">
+                                                            <span class="elementor-grid-item">
+                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
+                                                                    <span class="elementor-screen-only">Facebook-f</span>
+                                                                    <i class="fab fa-facebook-f"></i>
+                                                                </a>
+                                                            </span>
+                                                            <span class="elementor-grid-item">
+                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
+                                                                    <span class="elementor-screen-only">Twitter</span>
+                                                                    <i class="fab fa-twitter"></i>
+                                                                </a>
+                                                            </span>
+                                                            <span class="elementor-grid-item">
+                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
+                                                                    <span class="elementor-screen-only">Linkedin-in</span>
+                                                                    <i class="fab fa-linkedin-in"></i>
+                                                                </a>
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                        <!-- <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-b84668e elementor-invisible"
+                                            data-id="b84668e"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-83996dc elementor-widget elementor-widget-image" data-id="83996dc" data-element_type="widget" data-widget_type="image.default">
+                                                    <div class="elementor-widget-container">
+                                                        <img
+                                                            loading="lazy"
+                                                            decoding="async"
+                                                            width="214"
+                                                            height="210"
+                                                            src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg"
+                                                            class="elementor-animation-float attachment-full size-full"
+                                                            alt=""
+                                                        />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-94cb435 elementor-widget elementor-widget-heading" data-id="94cb435" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Pooja Sahare</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-8bbfe93 elementor-widget elementor-widget-text-editor" data-id="8bbfe93" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Personality Development Expert
+                                                    </div>
+                                                </div>
+                                                 
+                                            </div>
+                                        </div>  -->
+                                    </div>
+                                </section> 
+                                <!-- <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-32cac49 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="32cac49"
+                                    data-element_type="section"
+                                    data-settings='{"background_background":"classic"}'
+                                >
+                                    <div class="elementor-background-overlay"></div>
+                                    <div class="elementor-container elementor-column-gap-default">
+                                        <div
+                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8946a1c elementor-invisible"
+                                            data-id="8946a1c"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div
+                                                    class="elementor-element elementor-element-8a2f806 animated-slow elementor-widget elementor-widget-image"
+                                                    data-id="8a2f806"
+                                                    data-element_type="widget"
+                                                    data-settings='{"_animation":"none","_animation_delay":1}'
+                                                    data-widget_type="image.default"
+                                                >
+                                                    <div class="elementor-widget-container">
+                                                        <img decoding="async" width="215" height="210" src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-c0c57b8 elementor-widget elementor-widget-heading" data-id="c0c57b8" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Ankita Wakode</h2>
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-38763ae elementor-widget elementor-widget-text-editor" data-id="38763ae" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        Fitness and yoga Instructor
                                                     </div>
                                                 </div>
                                                 <div
@@ -1309,48 +1101,20 @@
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-0bbfd95 elementor-widget elementor-widget-image" data-id="0bbfd95" data-element_type="widget" data-widget_type="image.default">
                                                     <div class="elementor-widget-container">
-                                                        <img decoding="async" width="214" height="210" src="../wp-content/uploads/2022/01/professionals-img-2.png" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                        <img decoding="async" width="214" height="210" src=" wp-content/uploads/2022/01/professionals-img-2.png" class="elementor-animation-float attachment-full size-full" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-da4bc1f elementor-widget elementor-widget-heading" data-id="da4bc1f" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Alexandra Lowe</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Nisha Dubey</h2>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-9a991a9 elementor-widget elementor-widget-text-editor" data-id="9a991a9" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        Motivation Speaker
+                                                        Parenting Expert
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="elementor-element elementor-element-7954627 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="7954627"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                 
                                             </div>
                                         </div>
                                         <div
@@ -1362,17 +1126,17 @@
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-f06fb18 elementor-widget elementor-widget-image" data-id="f06fb18" data-element_type="widget" data-widget_type="image.default">
                                                     <div class="elementor-widget-container">
-                                                        <img decoding="async" width="214" height="210" src="../wp-content/uploads/2022/01/professionals-img-3.png" class="elementor-animation-float attachment-full size-full" alt="" />
+                                                        <img decoding="async" width="214" height="210" src=" wp-content/uploads/2022/01/professionals-img-3.png" class="elementor-animation-float attachment-full size-full" alt="" />
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-1687f33 elementor-widget elementor-widget-heading" data-id="1687f33" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Hollie Blake</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Snehal Ingole</h2>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-15bc35e elementor-widget elementor-widget-text-editor" data-id="15bc35e" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        Coach Teacher
+                                                        Communication Skill Expert
                                                     </div>
                                                 </div>
                                                 <div
@@ -1420,7 +1184,7 @@
                                                             decoding="async"
                                                             width="214"
                                                             height="210"
-                                                            src="../wp-content/uploads/2022/01/professionals-img-4.png"
+                                                            src=" https://www.fairfaxindia.ca/wp-content/uploads/2022/09/girl-1177794485-170667a.jpeg"
                                                             class="elementor-animation-float attachment-full size-full"
                                                             alt=""
                                                         />
@@ -1428,1153 +1192,111 @@
                                                 </div>
                                                 <div class="elementor-element elementor-element-94cb435 elementor-widget elementor-widget-heading" data-id="94cb435" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Morgan Nicholson</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Pooja Sahare</h2>
                                                     </div>
                                                 </div>
                                                 <div class="elementor-element elementor-element-8bbfe93 elementor-widget elementor-widget-text-editor" data-id="8bbfe93" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        Motivation Speaker
+                                                        Personality Development Expert
                                                     </div>
                                                 </div>
-                                                <div
-                                                    class="elementor-element elementor-element-56c1f09 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="56c1f09"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
+                                                 
                                             </div>
-                                        </div>
+                                        </div> 
                                     </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-599d035 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="599d035"
-                                    data-element_type="section"
-                                    data-settings='{"background_background":"classic"}'
-                                >
-                                    <div class="elementor-background-overlay"></div>
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7099cb9 elementor-invisible"
-                                            data-id="7099cb9"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div
-                                                    class="elementor-element elementor-element-0228ca5 animated-slow elementor-widget elementor-widget-image"
-                                                    data-id="0228ca5"
-                                                    data-element_type="widget"
-                                                    data-settings='{"_animation":"none","_animation_delay":1}'
-                                                    data-widget_type="image.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <img
-                                                            loading="lazy"
-                                                            decoding="async"
-                                                            width="215"
-                                                            height="210"
-                                                            src="../wp-content/uploads/2022/01/team-image-5-1.jpg"
-                                                            class="elementor-animation-float attachment-full size-full"
-                                                            alt=""
-                                                        />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-4d95547 elementor-widget elementor-widget-heading" data-id="4d95547" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Jessica Gilbert</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-3a5fd0e elementor-widget elementor-widget-text-editor" data-id="3a5fd0e" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Motivation Speaker
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-f90c1f1 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="f90c1f1"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8f037c9 elementor-invisible"
-                                            data-id="8f037c9"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-8a72adf elementor-widget elementor-widget-image" data-id="8a72adf" data-element_type="widget" data-widget_type="image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <img
-                                                            loading="lazy"
-                                                            decoding="async"
-                                                            width="214"
-                                                            height="210"
-                                                            src="../wp-content/uploads/2022/01/MicrosoftTeams-image-17.png"
-                                                            class="elementor-animation-float attachment-full size-full"
-                                                            alt=""
-                                                        />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-b2691f6 elementor-widget elementor-widget-heading" data-id="b2691f6" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Ethan Watson</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-8304597 elementor-widget elementor-widget-text-editor" data-id="8304597" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Motivation Speaker
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-87e94d6 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="87e94d6"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6da108d elementor-invisible"
-                                            data-id="6da108d"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-85c9fcd elementor-widget elementor-widget-image" data-id="85c9fcd" data-element_type="widget" data-widget_type="image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <img
-                                                            loading="lazy"
-                                                            decoding="async"
-                                                            width="214"
-                                                            height="210"
-                                                            src="../wp-content/uploads/2022/01/team-image-6-1.png"
-                                                            class="elementor-animation-float attachment-full size-full"
-                                                            alt=""
-                                                        />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-5c682b6 elementor-widget elementor-widget-heading" data-id="5c682b6" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Amelie Francis</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-5849050 elementor-widget elementor-widget-text-editor" data-id="5849050" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Coach Teacher
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-49e3c29 elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="49e3c29"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3c2a705 elementor-invisible"
-                                            data-id="3c2a705"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-f5d45d0 elementor-widget elementor-widget-image" data-id="f5d45d0" data-element_type="widget" data-widget_type="image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <img loading="lazy" decoding="async" width="214" height="210" src="../wp-content/uploads/2022/01/team-image-7.png" class="elementor-animation-float attachment-full size-full" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-efb40e4 elementor-widget elementor-widget-heading" data-id="efb40e4" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Riley Hayward</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-4ff81ca elementor-widget elementor-widget-text-editor" data-id="4ff81ca" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Motivation Speaker
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-d07f70e elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="d07f70e"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-f1a866a elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="f1a866a"
-                                    data-element_type="section"
-                                    data-settings='{"background_background":"classic"}'
-                                >
-                                    <div class="elementor-background-overlay"></div>
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-9755df5 elementor-invisible"
-                                            data-id="9755df5"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div
-                                                    class="elementor-element elementor-element-42e5664 animated-slow elementor-widget elementor-widget-image"
-                                                    data-id="42e5664"
-                                                    data-element_type="widget"
-                                                    data-settings='{"_animation":"none","_animation_delay":1}'
-                                                    data-widget_type="image.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <img loading="lazy" decoding="async" width="215" height="210" src="../wp-content/uploads/2022/01/team-image-8.png" class="elementor-animation-float attachment-full size-full" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-32c13bc elementor-widget elementor-widget-heading" data-id="32c13bc" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Kyle Martin</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-733ba00 elementor-widget elementor-widget-text-editor" data-id="733ba00" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Motivation Speaker
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-3cfa28f elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="3cfa28f"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-e47b4f5 elementor-invisible"
-                                            data-id="e47b4f5"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-59e3053 elementor-widget elementor-widget-image" data-id="59e3053" data-element_type="widget" data-widget_type="image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <img loading="lazy" decoding="async" width="214" height="210" src="../wp-content/uploads/2022/01/team-image-9.png" class="elementor-animation-float attachment-full size-full" alt="" />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-40a439f elementor-widget elementor-widget-heading" data-id="40a439f" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Evie Edwards</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-72bff2d elementor-widget elementor-widget-text-editor" data-id="72bff2d" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Motivation Speaker
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-6b1f8cb elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="6b1f8cb"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-71fab4d elementor-invisible"
-                                            data-id="71fab4d"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-225b787 elementor-widget elementor-widget-image" data-id="225b787" data-element_type="widget" data-widget_type="image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <img
-                                                            loading="lazy"
-                                                            decoding="async"
-                                                            width="214"
-                                                            height="210"
-                                                            src="../wp-content/uploads/2022/01/team-image-10-1.png"
-                                                            class="elementor-animation-float attachment-full size-full"
-                                                            alt=""
-                                                        />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-dc85df1 elementor-widget elementor-widget-heading" data-id="dc85df1" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Dylan Steven</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-76d6991 elementor-widget elementor-widget-text-editor" data-id="76d6991" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Coach Teacher
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-4abff5c elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="4abff5c"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-0e08166 elementor-invisible"
-                                            data-id="0e08166"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-4728fe0 elementor-widget elementor-widget-image" data-id="4728fe0" data-element_type="widget" data-widget_type="image.default">
-                                                    <div class="elementor-widget-container">
-                                                        <img
-                                                            loading="lazy"
-                                                            decoding="async"
-                                                            width="214"
-                                                            height="210"
-                                                            src="../wp-content/uploads/2022/01/team-image-11-1.png"
-                                                            class="elementor-animation-float attachment-full size-full"
-                                                            alt=""
-                                                        />
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-26c930d elementor-widget elementor-widget-heading" data-id="26c930d" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Niamh Goodwin</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-ab35939 elementor-widget elementor-widget-text-editor" data-id="ab35939" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Motivation Speaker
-                                                    </div>
-                                                </div>
-                                                <div
-                                                    class="elementor-element elementor-element-6790a1d elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons"
-                                                    data-id="6790a1d"
-                                                    data-element_type="widget"
-                                                    data-widget_type="social-icons.default"
-                                                >
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-social-icons-wrapper elementor-grid">
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-c4b31cc" target="_blank">
-                                                                    <span class="elementor-screen-only">Facebook-f</span>
-                                                                    <i class="fab fa-facebook-f"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-f330480" target="_blank">
-                                                                    <span class="elementor-screen-only">Twitter</span>
-                                                                    <i class="fab fa-twitter"></i>
-                                                                </a>
-                                                            </span>
-                                                            <span class="elementor-grid-item">
-                                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-16e0304" target="_blank">
-                                                                    <span class="elementor-screen-only">Linkedin-in</span>
-                                                                    <i class="fab fa-linkedin-in"></i>
-                                                                </a>
-                                                            </span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
+                                </section>  -->
                             </div>
                         </div>
                     </div>
-                </section>
-                <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-f97745c elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="f97745c"
-                    data-element_type="section"
-                >
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5b70ac0" data-id="5b70ac0" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-756da1a elementor-widget elementor-widget-heading" data-id="756da1a" data-element_type="widget" data-widget_type="heading.default">
-                                    <div class="elementor-widget-container">
-                                        <h2 class="elementor-heading-title elementor-size-default">Our Happy Clients</h2>
-                                    </div>
-                                </div>
-                                <div class="elementor-element elementor-element-0381965 elementor-widget elementor-widget-text-editor" data-id="0381965" data-element_type="widget" data-widget_type="text-editor.default">
-                                    <div class="elementor-widget-container">
-                                        <p>Lorem ipsum dolor sit amet consectetur adipiscinge lit sed do eiusm tempor incididunt ut labore etdolor emagna aliquan enim justo.</p>
-                                    </div>
-                                </div>
-                            </div>
+                </section>  
+                <section class="elementor-section elementor-top-section elementor-element elementor-element-6145f21 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+                            data-id="6145f21"
+                            data-element_type="section"
+                            data-settings='{"animation":"fadeInRight"}'
+                        >   
+                    <div class="elementor-element elementor-element-241c2f9 elementor-widget elementor-widget-heading" data-id="241c2f9" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                            <center><h2 class="elementor-heading-title elementor-size-default">News Collaboration</h2></center>
                         </div>
                     </div>
-                </section>
-                <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-5c2bc90 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="5c2bc90"
-                    data-element_type="section"
-                >
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1dd1487" data-id="1dd1487" data-element_type="column">
+                        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-37a8708" data-id="37a8708" data-element_type="column">
                             <div class="elementor-widget-wrap elementor-element-populated">
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-7357f26 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="7357f26"
-                                    data-element_type="section"
-                                >
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div
-                                            class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-f874052 elementor-invisible"
-                                            data-id="f874052"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInLeft"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-879b901 elementor-widget elementor-widget-text-editor" data-id="879b901" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus donec quam felis ultricies nec pellentesque eu pretium quis sem nulla consequat massa quis enim.
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-108c0ad elementor-widget elementor-widget-heading" data-id="108c0ad" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Shoo Phar Dhie</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-f06480c elementor-widget elementor-widget-text-editor" data-id="f06480c" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        exemple.com
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-15e44de elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="15e44de"
-                                    data-element_type="section"
-                                >
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div
-                                            class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ea8b281 elementor-invisible"
-                                            data-id="ea8b281"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-40e1017 elementor-widget elementor-widget-text-editor" data-id="40e1017" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus donec quam felis ultricies nec pellentesque eu pretium quis sem nulla consequat massa quis enim.
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-62cb819 elementor-widget elementor-widget-heading" data-id="62cb819" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Callum Morley</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-d7ee7fe elementor-widget elementor-widget-text-editor" data-id="d7ee7fe" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        exemple.com
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b13c1b9 elementor-invisible" data-id="b13c1b9" data-element_type="column" data-settings='{"animation":"fadeIn"}'>
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-33c5f7f elementor-widget elementor-widget-image" data-id="33c5f7f" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img
-                                            loading="lazy"
-                                            decoding="async"
-                                            width="445"
-                                            height="586"
-                                            src="../wp-content/uploads/2022/01/home-page-7th-sec-img.jpg"
-                                            class="elementor-animation-float attachment-large size-large"
-                                            alt=""
-                                            srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-7th-sec-img.jpg         445w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-7th-sec-img-228x300.jpg 228w
-                                            "
-                                            sizes="(max-width: 445px) 100vw, 445px"
-                                        />
-                                    </div>
-                                </div>
                                 <div
-                                    class="elementor-element elementor-element-9c7c8c3 elementor-absolute elementor-widget elementor-widget-image"
-                                    data-id="9c7c8c3"
+                                    class="elementor-element elementor-element-9ef91ca elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                    data-id="9ef91ca"
                                     data-element_type="widget"
-                                    data-settings='{"_position":"absolute"}'
                                     data-widget_type="image.default"
                                 >
                                     <div class="elementor-widget-container">
-                                        <img
-                                            loading="lazy"
-                                            decoding="async"
-                                            width="444"
-                                            height="550"
-                                            src="../wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg"
-                                            class="attachment-full size-full"
-                                            alt=""
-                                            srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
-                                            "
-                                            sizes="(max-width: 444px) 100vw, 444px"
-                                        />
+                                        <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo1.png" class="elementor-animation-float attachment-large size-large" alt="" />
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-66c1153" data-id="66c1153" data-element_type="column">
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                                <div
+                                    class="elementor-element elementor-element-aee5227 elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                    data-id="aee5227"
+                                    data-element_type="widget"
+                                    data-widget_type="image.default"
+                                >
+                                    <div class="elementor-widget-container">
+                                        <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo2.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-04d71b7" data-id="04d71b7" data-element_type="column">
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                                <div
+                                    class="elementor-element elementor-element-3dfe0e4 elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                    data-id="3dfe0e4"
+                                    data-element_type="widget"
+                                    data-widget_type="image.default"
+                                >
+                                    <div class="elementor-widget-container">
+                                        <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo3.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-38567d9" data-id="38567d9" data-element_type="column">
+                            <div class="elementor-widget-wrap elementor-element-populated">
+                                <div
+                                    class="elementor-element elementor-element-d312488 elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                    data-id="d312488"
+                                    data-element_type="widget"
+                                    data-widget_type="image.default"
+                                >
+                                    <div class="elementor-widget-container">
+                                        <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo4.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                    </div>
+                                </div>
+                            </div>
+                        </div> 
                     </div>
-                </section>
-                <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-fbd6051 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
-                    data-id="fbd6051"
-                    data-element_type="section"
-                    data-settings='{"animation":"fadeInRight"}'
-                >
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-67440e8" data-id="67440e8" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-9328bc1 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="9328bc1" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img loading="lazy" decoding="async" width="91" height="43" src="../wp-content/uploads/2022/01/logo1.png" class="elementor-animation-float attachment-large size-large" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-c1b13a6" data-id="c1b13a6" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-e778416 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="e778416" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img loading="lazy" decoding="async" width="116" height="40" src="../wp-content/uploads/2022/01/logo2.png" class="elementor-animation-float attachment-large size-large" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-ff992bb" data-id="ff992bb" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-e8194be elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="e8194be" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img loading="lazy" decoding="async" width="94" height="50" src="../wp-content/uploads/2022/01/logo3.png" class="elementor-animation-float attachment-large size-large" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-1d7fc61" data-id="1d7fc61" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-54eb9f4 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="54eb9f4" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img loading="lazy" decoding="async" width="126" height="41" src="../wp-content/uploads/2022/01/logo4.png" class="elementor-animation-float attachment-large size-large" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-9ab6e9a" data-id="9ab6e9a" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-1b980ba elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="1b980ba" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img loading="lazy" decoding="async" width="114" height="26" src="../wp-content/uploads/2022/01/logo5.png" class="elementor-animation-float attachment-large size-large" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-ce0a0a9" data-id="ce0a0a9" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-572c2b0 elementor-widget__width-auto elementor-widget elementor-widget-image" data-id="572c2b0" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img loading="lazy" decoding="async" width="106" height="50" src="../wp-content/uploads/2022/01/logo6.png" class="elementor-animation-float attachment-large size-large" alt="" />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
+                </section><br><br>
             </div>
-        </div>
-        <div class="ekit-template-content-markup ekit-template-content-footer ekit-template-content-theme-support">
-            <div data-elementor-type="wp-post" data-elementor-id="2856" class="elementor elementor-2856" data-elementor-settings="[]">
-                <div class="elementor-section-wrap">
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-6c3c88ea elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                        data-id="6c3c88ea"
-                        data-element_type="section"
-                        data-settings='{"background_background":"classic"}'
-                    >
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-764069ec" data-id="764069ec" data-element_type="column">
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div
-                                        class="elementor-element elementor-element-4e822588 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
-                                        data-id="4e822588"
-                                        data-element_type="widget"
-                                        data-widget_type="divider.default"
-                                    >
-                                        <div class="elementor-widget-container">
-                                            <style>
-                                                /*! elementor - v3.5.4 - 23-01-2022 */
-                                                .elementor-widget-divider {
-                                                    --divider-border-style: none;
-                                                    --divider-border-width: 1px;
-                                                    --divider-color: #2c2c2c;
-                                                    --divider-icon-size: 20px;
-                                                    --divider-element-spacing: 10px;
-                                                    --divider-pattern-height: 24px;
-                                                    --divider-pattern-size: 20px;
-                                                    --divider-pattern-url: none;
-                                                    --divider-pattern-repeat: repeat-x;
-                                                }
-                                                .elementor-widget-divider .elementor-divider {
-                                                    display: -webkit-box;
-                                                    display: -ms-flexbox;
-                                                    display: flex;
-                                                }
-                                                .elementor-widget-divider .elementor-divider__text {
-                                                    font-size: 15px;
-                                                    line-height: 1;
-                                                    max-width: 95%;
-                                                }
-                                                .elementor-widget-divider .elementor-divider__element {
-                                                    margin: 0 var(--divider-element-spacing);
-                                                    -ms-flex-negative: 0;
-                                                    flex-shrink: 0;
-                                                }
-                                                .elementor-widget-divider .elementor-icon {
-                                                    font-size: var(--divider-icon-size);
-                                                }
-                                                .elementor-widget-divider .elementor-divider-separator {
-                                                    display: -webkit-box;
-                                                    display: -ms-flexbox;
-                                                    display: flex;
-                                                    margin: 0;
-                                                    direction: ltr;
-                                                }
-                                                .elementor-widget-divider--view-line_icon .elementor-divider-separator,
-                                                .elementor-widget-divider--view-line_text .elementor-divider-separator {
-                                                    -webkit-box-align: center;
-                                                    -ms-flex-align: center;
-                                                    align-items: center;
-                                                }
-                                                .elementor-widget-divider--view-line_icon .elementor-divider-separator:after,
-                                                .elementor-widget-divider--view-line_icon .elementor-divider-separator:before,
-                                                .elementor-widget-divider--view-line_text .elementor-divider-separator:after,
-                                                .elementor-widget-divider--view-line_text .elementor-divider-separator:before {
-                                                    display: block;
-                                                    content: "";
-                                                    border-bottom: 0;
-                                                    -webkit-box-flex: 1;
-                                                    -ms-flex-positive: 1;
-                                                    flex-grow: 1;
-                                                    border-top: var(--divider-border-width) var(--divider-border-style) var(--divider-color);
-                                                }
-                                                .elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator > .elementor-divider__svg:first-of-type {
-                                                    -webkit-box-flex: 0;
-                                                    -ms-flex-positive: 0;
-                                                    flex-grow: 0;
-                                                    -ms-flex-negative: 100;
-                                                    flex-shrink: 100;
-                                                }
-                                                .elementor-widget-divider--element-align-left .elementor-divider-separator:before {
-                                                    content: none;
-                                                }
-                                                .elementor-widget-divider--element-align-left .elementor-divider__element {
-                                                    margin-left: 0;
-                                                }
-                                                .elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator > .elementor-divider__svg:last-of-type {
-                                                    -webkit-box-flex: 0;
-                                                    -ms-flex-positive: 0;
-                                                    flex-grow: 0;
-                                                    -ms-flex-negative: 100;
-                                                    flex-shrink: 100;
-                                                }
-                                                .elementor-widget-divider--element-align-right .elementor-divider-separator:after {
-                                                    content: none;
-                                                }
-                                                .elementor-widget-divider--element-align-right .elementor-divider__element {
-                                                    margin-right: 0;
-                                                }
-                                                .elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator {
-                                                    border-top: var(--divider-border-width) var(--divider-border-style) var(--divider-color);
-                                                }
-                                                .elementor-widget-divider--separator-type-pattern {
-                                                    --divider-border-style: none;
-                                                }
-                                                .elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,
-                                                .elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,
-                                                .elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,
-                                                .elementor-widget-divider--separator-type-pattern:not([class*="elementor-widget-divider--view"]) .elementor-divider-separator {
-                                                    width: 100%;
-                                                    min-height: var(--divider-pattern-height);
-                                                    -webkit-mask-size: var(--divider-pattern-size) 100%;
-                                                    mask-size: var(--divider-pattern-size) 100%;
-                                                    -webkit-mask-repeat: var(--divider-pattern-repeat);
-                                                    mask-repeat: var(--divider-pattern-repeat);
-                                                    background-color: var(--divider-color);
-                                                    -webkit-mask-image: var(--divider-pattern-url);
-                                                    mask-image: var(--divider-pattern-url);
-                                                }
-                                                .elementor-widget-divider--no-spacing {
-                                                    --divider-pattern-size: auto;
-                                                }
-                                                .elementor-widget-divider--bg-round {
-                                                    --divider-pattern-repeat: round;
-                                                }
-                                                .rtl .elementor-widget-divider .elementor-divider__text {
-                                                    direction: rtl;
-                                                }
-                                            </style>
-                                            <div class="elementor-divider">
-                                                <span class="elementor-divider-separator"> </span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <section
-                                        class="elementor-section elementor-inner-section elementor-element elementor-element-4579e5d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                        data-id="4579e5d"
-                                        data-element_type="section"
-                                    >
-                                        <div class="elementor-container elementor-column-gap-no">
-                                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-11bd3441" data-id="11bd3441" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-798816d6 elementor-widget elementor-widget-image" data-id="798816d6" data-element_type="widget" data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <img width="204" height="40" src="../wp-content/uploads/2022/01/footer-logo.png" class="attachment-full size-full" alt="" loading="lazy" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-ef54f52 elementor-widget elementor-widget-text-editor" data-id="ef54f52" data-element_type="widget" data-widget_type="text-editor.default">
-                                                        <div class="elementor-widget-container">
-                                                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elitsed do eiusmod tempororem ipsum dolor sit am econsect ametconsectetetur adipiscing.</p>
-                                                        </div>
-                                                    </div>
-                                                    <div class="elementor-element elementor-element-50f24a2b elementor-widget elementor-widget-image" data-id="50f24a2b" data-element_type="widget" data-widget_type="image.default">
-                                                        <div class="elementor-widget-container">
-                                                            <img width="194" height="28" src="../wp-content/uploads/2022/01/payment-img.png" class="attachment-full size-full" alt="" loading="lazy" />
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-5901dd07 elementor-hidden-mobile" data-id="5901dd07" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-1bd90596 elementor-widget elementor-widget-heading" data-id="1bd90596" data-element_type="widget" data-widget_type="heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <h2 class="elementor-heading-title elementor-size-default">Quick Link</h2>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-430c481c elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                                        data-id="430c481c"
-                                                        data-element_type="widget"
-                                                        data-widget_type="icon-list.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <ul class="elementor-icon-list-items">
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Basic Life Coach</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Helath Coach</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Business Coach</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Basic Learn English</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Web Development</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Latest Courses</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-27952e64 elementor-hidden-mobile elementor-hidden-tablet"
-                                                data-id="27952e64"
-                                                data-element_type="column"
-                                            >
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-50fa0895 elementor-widget elementor-widget-heading" data-id="50fa0895" data-element_type="widget" data-widget_type="heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <h2 class="elementor-heading-title elementor-size-default">Support</h2>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-7942c8b0 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list"
-                                                        data-id="7942c8b0"
-                                                        data-element_type="widget"
-                                                        data-widget_type="icon-list.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <ul class="elementor-icon-list-items">
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Mission & Vision</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Our Approach</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Exclusive Advisors</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Join a Career</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Terms of Use</span>
-                                                                </li>
-                                                                <li class="elementor-icon-list-item">
-                                                                    <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Privacy Policy</span>
-                                                                </li>
-                                                            </ul>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-3c998ff5 elementor-hidden-mobile" data-id="3c998ff5" data-element_type="column">
-                                                <div class="elementor-widget-wrap elementor-element-populated">
-                                                    <div class="elementor-element elementor-element-4573061b elementor-widget elementor-widget-heading" data-id="4573061b" data-element_type="widget" data-widget_type="heading.default">
-                                                        <div class="elementor-widget-container">
-                                                            <h2 class="elementor-heading-title elementor-size-default">Get in Touch</h2>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-1e946de6 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="1e946de6"
-                                                        data-element_type="widget"
-                                                        data-widget_type="text-editor.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <p>Email:</p>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-2ce97998 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="2ce97998"
-                                                        data-element_type="widget"
-                                                        data-widget_type="text-editor.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <p>info@wellbeing.com</p>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-60478d09 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="60478d09"
-                                                        data-element_type="widget"
-                                                        data-widget_type="text-editor.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <p>Phone:</p>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-28a6dc9 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="28a6dc9"
-                                                        data-element_type="widget"
-                                                        data-widget_type="text-editor.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <p>+1 234 567 89 0 0</p>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-41956295 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="41956295"
-                                                        data-element_type="widget"
-                                                        data-widget_type="text-editor.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <p>Fax:</p>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-2a27f9e7 elementor-widget__width-auto elementor-widget elementor-widget-text-editor"
-                                                        data-id="2a27f9e7"
-                                                        data-element_type="widget"
-                                                        data-widget_type="text-editor.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <p>+1 ( 987 ) 654 321 9 9</p>
-                                                        </div>
-                                                    </div>
-                                                    <div
-                                                        class="elementor-element elementor-element-feb90fb e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons"
-                                                        data-id="feb90fb"
-                                                        data-element_type="widget"
-                                                        data-widget_type="social-icons.default"
-                                                    >
-                                                        <div class="elementor-widget-container">
-                                                            <div class="elementor-social-icons-wrapper elementor-grid">
-                                                                <span class="elementor-grid-item">
-                                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-square elementor-repeater-item-c4b31cc" target="_blank">
-                                                                        <span class="elementor-screen-only">Facebook-square</span>
-                                                                        <i class="fab fa-facebook-square"></i>
-                                                                    </a>
-                                                                </span>
-                                                                <span class="elementor-grid-item">
-                                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter-square elementor-repeater-item-f330480" target="_blank">
-                                                                        <span class="elementor-screen-only">Twitter-square</span>
-                                                                        <i class="fab fa-twitter-square"></i>
-                                                                    </a>
-                                                                </span>
-                                                                <span class="elementor-grid-item">
-                                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-16e0304" target="_blank">
-                                                                        <span class="elementor-screen-only">Linkedin</span>
-                                                                        <i class="fab fa-linkedin"></i>
-                                                                    </a>
-                                                                </span>
-                                                                <span class="elementor-grid-item">
-                                                                    <a class="elementor-icon elementor-social-icon elementor-social-icon-pinterest-square elementor-repeater-item-20b0748" target="_blank">
-                                                                        <span class="elementor-screen-only">Pinterest-square</span>
-                                                                        <i class="fab fa-pinterest-square"></i>
-                                                                    </a>
-                                                                </span>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section
-                        class="elementor-section elementor-top-section elementor-element elementor-element-ad153dc elementor-section-full_width elementor-section-height-default elementor-section-height-default"
-                        data-id="ad153dc"
-                        data-element_type="section"
-                    >
-                        <div class="elementor-container elementor-column-gap-default">
-                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-766370bb" data-id="766370bb" data-element_type="column" data-settings='{"background_background":"classic"}'>
-                                <div class="elementor-widget-wrap elementor-element-populated">
-                                    <div class="elementor-element elementor-element-2a0e42e1 elementor-widget elementor-widget-text-editor" data-id="2a0e42e1" data-element_type="widget" data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container">
-                                            Copyright ©2022 Wellbeing. All Rights Reserved
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </div>
-        </div>
-        <link rel="stylesheet" id="e-animations-css" href="../wp-content/plugins/elementor/assets/lib/animations/animations.mine248.css?ver=3.5.4" type="text/css" media="all" />
-        <script type="text/javascript" src="../wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0" id="imagesloaded-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/jquery.magnific-popup.minf488.js?ver=1.1.0" id="magnific-popup-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/juxtaposecfa9.js?ver=1.1.2" id="juxtapose-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/typed.min3c89.js?ver=2.0.11" id="typed-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/owl.carousel.min531b.js?ver=2.3.4" id="owl-carousel-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/jquery.countdown.min1f22.js?ver=1.6.2" id="countdown-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/jquery.matchHeight.min230a.js?ver=0.7.2" id="matchheight-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/isotope.min41fe.js?ver=3.0.1" id="isotope-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/packery-mode.pkgd.min7406.js?ver=2.0.1" id="packery-mode-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/theia-sticky-sidebar.minef6d.js?ver=1.8.2" id="theia-sticky-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/scriptsef6d.js?ver=1.8.2" id="naevents-scripts-js"></script>
-        <script type="text/javascript" src="../wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0" id="hello-theme-frontend-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script91ee.js?ver=2.5.3" id="elementskit-framework-js-frontend-js"></script>
+        </div> 
+
+        <?php include 'footer.php';?>
+
+        <link rel="stylesheet" id="e-animations-css" href=" wp-content/plugins/elementor/assets/lib/animations/animations.mine248.css?ver=3.5.4" type="text/css" media="all" />
+        <script type="text/javascript" src=" wp-includes/js/imagesloaded.minbb93.js?ver=5.0.0" id="imagesloaded-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/jquery.magnific-popup.minf488.js?ver=1.1.0" id="magnific-popup-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/juxtaposecfa9.js?ver=1.1.2" id="juxtapose-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/typed.min3c89.js?ver=2.0.11" id="typed-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/owl.carousel.min531b.js?ver=2.3.4" id="owl-carousel-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/jquery.countdown.min1f22.js?ver=1.6.2" id="countdown-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/jquery.matchHeight.min230a.js?ver=0.7.2" id="matchheight-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/isotope.min41fe.js?ver=3.0.1" id="isotope-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/packery-mode.pkgd.min7406.js?ver=2.0.1" id="packery-mode-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/theia-sticky-sidebar.minef6d.js?ver=1.8.2" id="theia-sticky-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/scriptsef6d.js?ver=1.8.2" id="naevents-scripts-js"></script>
+        <script type="text/javascript" src=" wp-content/themes/hello-elementor/assets/js/hello-frontend.min8a54.js?ver=1.0.0" id="hello-theme-frontend-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script91ee.js?ver=2.5.3" id="elementskit-framework-js-frontend-js"></script>
         <script type="text/javascript" id="elementskit-framework-js-frontend-js-after">
             /* <![CDATA[ */
             var elementskit = {
@@ -2583,11 +1305,11 @@
 
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts91ee.js?ver=2.5.3" id="ekit-widget-scripts-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/webpack.runtime.mine248.js?ver=3.5.4" id="elementor-webpack-runtime-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend-modules.mine248.js?ver=3.5.4" id="elementor-frontend-modules-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
-        <script type="text/javascript" src="../wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts91ee.js?ver=2.5.3" id="ekit-widget-scripts-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementor/assets/js/webpack.runtime.mine248.js?ver=3.5.4" id="elementor-webpack-runtime-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementor/assets/js/frontend-modules.mine248.js?ver=3.5.4" id="elementor-frontend-modules-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min05da.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+        <script type="text/javascript" src=" wp-includes/js/jquery/ui/core.min3f14.js?ver=1.13.2" id="jquery-ui-core-js"></script>
         <script type="text/javascript" id="elementor-frontend-js-before">
             /* <![CDATA[ */
             var elementorFrontendConfig = {
@@ -2653,17 +1375,17 @@
             };
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-content/plugins/elementor/assets/js/frontend.mine248.js?ver=3.5.4" id="elementor-frontend-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle91ee.js?ver=2.5.3" id="animate-circle-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementor/assets/js/frontend.mine248.js?ver=3.5.4" id="elementor-frontend-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle91ee.js?ver=2.5.3" id="animate-circle-js"></script>
         <script type="text/javascript" id="elementskit-elementor-js-extra">
             /* <![CDATA[ */
             var ekit_config = { ajaxurl: "https:\/\/elementorpress.com\/templatekit-pro\/layout31\/wp-admin\/admin-ajax.php", nonce: "f9f46b947b" };
             /* ]]> */
         </script>
-        <script type="text/javascript" src="../wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor91ee.js?ver=2.5.3" id="elementskit-elementor-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/elementor/assets/lib/swiper/swiper.min91ee.js?ver=2.5.3" id="swiper-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/elementor/js/naevents-elementoref10.js?ver=6.5.3" id="naevents-elementor-js"></script>
-        <script type="text/javascript" src="../wp-content/plugins/events-addon-for-elementor/assets/js/Chart.mind315.js?ver=2.6.0" id="naevents-chartjs-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor91ee.js?ver=2.5.3" id="elementskit-elementor-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/elementor/assets/lib/swiper/swiper.min91ee.js?ver=2.5.3" id="swiper-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/elementor/js/naevents-elementoref10.js?ver=6.5.3" id="naevents-elementor-js"></script>
+        <script type="text/javascript" src=" wp-content/plugins/events-addon-for-elementor/assets/js/Chart.mind315.js?ver=2.6.0" id="naevents-chartjs-js"></script>
     </body>
 
     <!-- Mirrored from elementorpress.com/templatekit-pro/layout31/team/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 May 2024 09:58:58 GMT -->

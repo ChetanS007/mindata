@@ -4,114 +4,11 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Testimonials &#8211; wellbeing</title>
+        <title>Price &#8211; wellbeing</title>
         <meta name="robots" content="max-image-preview:large" />
         <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Feed" href="feed/index.html" />
         <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Comments Feed" href="comments/feed/index.html" />
-        <script type="text/javascript">
-            /* <![CDATA[ */
-            window._wpemojiSettings = {
-                baseUrl: "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/",
-                ext: ".png",
-                svgUrl: "https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/",
-                svgExt: ".svg",
-                source: { concatemoji: "https:\/\/elementorpress.com\/templatekit-pro\/layout31\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.3" },
-            };
-            /*! This file is auto-generated */
-            !(function (i, n) {
-                var o, s, e;
-                function c(e) {
-                    try {
-                        var t = { supportTests: e, timestamp: new Date().valueOf() };
-                        sessionStorage.setItem(o, JSON.stringify(t));
-                    } catch (e) {}
-                }
-                function p(e, t, n) {
-                    e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
-                    var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data),
-                        r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data));
-                    return t.every(function (e, t) {
-                        return e === r[t];
-                    });
-                }
-                function u(e, t, n) {
-                    switch (t) {
-                        case "flag":
-                            return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")
-                                ? !1
-                                : !n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") &&
-                                      !n(
-                                          e,
-                                          "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
-                                          "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
-                                      );
-                        case "emoji":
-                            return !n(e, "\ud83d\udc26\u200d\u2b1b", "\ud83d\udc26\u200b\u2b1b");
-                    }
-                    return !1;
-                }
-                function f(e, t, n) {
-                    var r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(300, 150) : i.createElement("canvas"),
-                        a = r.getContext("2d", { willReadFrequently: !0 }),
-                        o = ((a.textBaseline = "top"), (a.font = "600 32px Arial"), {});
-                    return (
-                        e.forEach(function (e) {
-                            o[e] = t(a, e, n);
-                        }),
-                        o
-                    );
-                }
-                function t(e) {
-                    var t = i.createElement("script");
-                    (t.src = e), (t.defer = !0), i.head.appendChild(t);
-                }
-                "undefined" != typeof Promise &&
-                    ((o = "wpEmojiSettingsSupports"),
-                    (s = ["flag", "emoji"]),
-                    (n.supports = { everything: !0, everythingExceptFlag: !0 }),
-                    (e = new Promise(function (e) {
-                        i.addEventListener("DOMContentLoaded", e, { once: !0 });
-                    })),
-                    new Promise(function (t) {
-                        var n = (function () {
-                            try {
-                                var e = JSON.parse(sessionStorage.getItem(o));
-                                if ("object" == typeof e && "number" == typeof e.timestamp && new Date().valueOf() < e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests;
-                            } catch (e) {}
-                            return null;
-                        })();
-                        if (!n) {
-                            if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" != typeof URL && URL.createObjectURL && "undefined" != typeof Blob)
-                                try {
-                                    var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), p.toString()].join(",") + "));",
-                                        r = new Blob([e], { type: "text/javascript" }),
-                                        a = new Worker(URL.createObjectURL(r), { name: "wpTestEmojiSupports" });
-                                    return void (a.onmessage = function (e) {
-                                        c((n = e.data)), a.terminate(), t(n);
-                                    });
-                                } catch (e) {}
-                            c((n = f(s, u, p)));
-                        }
-                        t(n);
-                    })
-                        .then(function (e) {
-                            for (var t in e) (n.supports[t] = e[t]), (n.supports.everything = n.supports.everything && n.supports[t]), "flag" !== t && (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && n.supports[t]);
-                            (n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag),
-                                (n.DOMReady = !1),
-                                (n.readyCallback = function () {
-                                    n.DOMReady = !0;
-                                });
-                        })
-                        .then(function () {
-                            return e;
-                        })
-                        .then(function () {
-                            var e;
-                            n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e.concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji)));
-                        }));
-            })((window, document), window._wpemojiSettings);
-            /* ]]> */
-        </script>
+ 
         <link rel="stylesheet" id="elementor-frontend-css" href="wp-content/plugins/elementor/assets/css/frontend-lite.mine248.css?ver=3.5.4" type="text/css" media="all" />
         <link rel="stylesheet" id="elementor-post-6-css" href="wp-content/uploads/elementor/css/post-60c5e.css?ver=1643613599" type="text/css" media="all" />
         <link rel="stylesheet" id="font-awesome-5-all-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/all.mine248.css?ver=3.5.4" type="text/css" media="all" />
@@ -401,6 +298,9 @@
                 font-size: 1.5em;
                 line-height: 1.6;
             }
+            .courses > .elementor-column > .elementor-widget-wrap >.elementor-element > .elementor-widget-container > .elementor-heading-title{
+            	font-size: 25px!important;
+            }
         </style>
         <link rel="stylesheet" id="niche-frame-css" href="wp-content/plugins/events-addon-for-elementor/assets/css/niche-frame5152.css?ver=1.0" type="text/css" media="all" />
         <link rel="stylesheet" id="font-awesome-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
@@ -418,7 +318,7 @@
         <link rel="stylesheet" id="elementor-post-5-css" href="wp-content/uploads/elementor/css/post-50c5e.css?ver=1643613599" type="text/css" media="all" />
         <link rel="stylesheet" id="elementor-icons-ekiticons-css" href="wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons91ee.css?ver=2.5.3" type="text/css" media="all" />
         <link rel="stylesheet" id="elementor-icons-css" href="wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.mine900.css?ver=5.14.0" type="text/css" media="all" />
-        <link rel="stylesheet" id="elementor-post-4573-css" href="wp-content/uploads/elementor/css/post-4573aaaa.css?ver=1643616462" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-4438-css" href="wp-content/uploads/elementor/css/post-44385ff8.css?ver=1643616160" type="text/css" media="all" />
         <link rel="stylesheet" id="ekit-widget-styles-css" href="wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles91ee.css?ver=2.5.3" type="text/css" media="all" />
         <link rel="stylesheet" id="ekit-responsive-css" href="wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive91ee.css?ver=2.5.3" type="text/css" media="all" />
         <link
@@ -437,31 +337,31 @@
         <script type="text/javascript" src="wp-includes/js/jquery/jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
         <script type="text/javascript" src="wp-content/plugins/template-kit-export/public/assets/js/template-kit-export-public.min365c.js?ver=1.0.21" id="template-kit-export-js"></script>
         <link rel="https://api.w.org/" href="wp-json/index.html" />
-        <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/4573.json" />
+        <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/4438.json" />
         <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
         <meta name="generator" content="WordPress 6.5.3" />
         <link rel="canonical" href="index.html" />
-        <link rel="shortlink" href="index3fe9.html?p=4573" />
-        <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embedea2b.json?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Ftestimonials%2F" />
-        <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedf507?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Ftestimonials%2F&amp;format=xml" />
+        <link rel="shortlink" href="index8201.html?p=4438" />
+        <link rel="alternate" type="application/json+oembed" href="wp-json/oembed/1.0/embed9218.json?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Fprice%2F" />
+        <link rel="alternate" type="text/xml+oembed" href="wp-json/oembed/1.0/embedebc8?url=https%3A%2F%2Felementorpress.com%2Ftemplatekit-pro%2Flayout31%2Fprice%2F&amp;format=xml" />
     </head>
-    <body class="page-template page-template-elementor_header_footer page page-id-4573 elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-4573">
+    <body class="page-template page-template-elementor_header_footer page page-id-4438 elementor-default elementor-template-full-width elementor-kit-5 elementor-page elementor-page-4438">
         
-        <?php include 'header.php';?>
+        <?php include 'header.php';?>    	
 
-        <div data-elementor-type="wp-page" data-elementor-id="4573" class="elementor elementor-4573" data-elementor-settings="[]" style="margin-top: 2%;">
-            <div class="elementor-section-wrap">
+        <div data-elementor-type="wp-page" data-elementor-id="4438" class="elementor elementor-4438" data-elementor-settings="[]">
+            <div class="elementor-section-wrap" style="margin-top: 8%;">
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-8e01763 elementor-section-boxed elementor-section-height-default elementor-section-height-default mob-banner"
-                    data-id="8e01763"
+                    class="elementor-section elementor-top-section elementor-element elementor-element-d2d6bbc elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="d2d6bbc"
                     data-element_type="section"
                     data-settings='{"background_background":"classic"}'
                 >
                     <div class="elementor-background-overlay"></div>
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-941091f" data-id="941091f" data-element_type="column">
+                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d568e0f" data-id="d568e0f" data-element_type="column">
                             <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-3028e05 elementor-widget elementor-widget-heading" data-id="3028e05" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-element elementor-element-b0b54b6 elementor-widget elementor-widget-heading" data-id="b0b54b6" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
                                         <style>
                                             /*! elementor - v3.5.4 - 23-01-2022 */
@@ -491,293 +391,376 @@
                                                 font-size: 59px;
                                             }
                                         </style>
-                                        <h2 class="elementor-heading-title elementor-size-default">Testimonials</h2>
+                                        <h2 class="elementor-heading-title elementor-size-default">Our Courses</h2>
                                     </div>
-                                </div>   
+                                </div> 
                             </div>
                         </div>
                     </div>
                 </section>
                 <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-ea34eb5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="ea34eb5"
+                    class="elementor-section elementor-top-section elementor-element elementor-element-c10ec64 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                    data-id="c10ec64"
                     data-element_type="section"
                     data-settings='{"background_background":"classic"}'
                 >
                     <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-42d55ce" data-id="42d55ce" data-element_type="column">
+                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-85aa805" data-id="85aa805" data-element_type="column" data-settings='{"background_background":"classic"}'>
                             <div class="elementor-widget-wrap elementor-element-populated">
                                 <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-f784deb elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="f784deb"
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-9a7350d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="9a7350d"
                                     data-element_type="section"
+                                    data-settings='{"background_background":"classic"}'
                                 >
-                                    <div class="elementor-container elementor-column-gap-default">
+                                    <div class="elementor-background-overlay"></div>
+                                    <center>
+                                    	<p>Premises of S.G. Boys High School, Paratwada</p>
+                                    
+	                                    <div class="elementor-element elementor-element-241c2f9 elementor-widget elementor-widget-heading" data-id="241c2f9" data-element_type="widget" data-widget_type="heading.default">
+	                                        <div class="elementor-widget-container">
+	                                            <h2 class="elementor-heading-title elementor-size-default">Available Offline</h2>
+	                                        </div>
+	                                    </div><br><br>
+
+                                    </center>
+                                    <div class="elementor-container elementor-column-gap-default courses">
                                         <div
-                                            class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-9f73565 elementor-invisible"
-                                            data-id="9f73565"
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element  elementor-element-a913348 elementor-invisible"
+                                            data-id="a913348"
                                             data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInLeft"}'
+                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
                                         >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-7fc1c82 elementor-widget elementor-widget-text-editor" data-id="7fc1c82" data-element_type="widget" data-widget_type="text-editor.default">
+                                            <div class="elementor-widget-wrap elementor-element-populated ">
+                                                <div class="elementor-element elementor-element-7c5a109 elementor-widget elementor-widget-text-editor" data-id="7c5a109" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        “Saurabh Sir’s Memory and Mind Power Workshop proved to be the best thing happened for my child’s academics”
+                                                        4th std -
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-ee42e21 elementor-widget elementor-widget-heading" data-id="ee42e21" data-element_type="widget" data-widget_type="heading.default">
+                                                <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Mr. Parag Mankar</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-bdf9b45 elementor-widget elementor-widget-text-editor" data-id="bdf9b45" data-element_type="widget" data-widget_type="text-editor.default">
+                                                 
+                                                <div class="elementor-element elementor-element-72c54eb elementor-widget elementor-widget-button" data-id="72c54eb" data-element_type="widget" data-widget_type="button.default">
                                                     <div class="elementor-widget-container">
-                                                       Manager at Mahendra Logistics
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-6f557e7 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="6f557e7"
-                                    data-element_type="section"
-                                >
-                                    <div class="elementor-container elementor-column-gap-default">
                                         <div
-                                            class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b96740d elementor-invisible"
-                                            data-id="b96740d"
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-784285e elementor-invisible"
+                                            data-id="784285e"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-af12634 elementor-widget elementor-widget-text-editor" data-id="af12634" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        5th std -
+                                                    </div>
+                                                    
+                                                </div>
+                                                <div class="elementor-element elementor-element-257b97e elementor-widget elementor-widget-heading" data-id="257b97e" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                    </div><br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-d19a88a elementor-widget elementor-widget-button" data-id="d19a88a" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9c9169d elementor-invisible"
+                                            data-id="9c9169d"
                                             data-element_type="column"
                                             data-settings='{"background_background":"classic","animation":"fadeInUp"}'
                                         >
                                             <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-0a5539b elementor-widget elementor-widget-text-editor" data-id="0a5539b" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <div class="elementor-element elementor-element-36921af elementor-widget elementor-widget-text-editor" data-id="36921af" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        Cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus donec quam felis ultricies nec pellentesque eu pretium quis sem nulla consequat massa quis enim.
+                                                        6th std -
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-0433f56 elementor-widget elementor-widget-heading" data-id="0433f56" data-element_type="widget" data-widget_type="heading.default">
+                                                <div class="elementor-element elementor-element-4b8679c elementor-widget elementor-widget-heading" data-id="4b8679c" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Mulani</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
                                                     </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-e3cfb5d elementor-widget elementor-widget-text-editor" data-id="e3cfb5d" data-element_type="widget" data-widget_type="text-editor.default">
+
+                                                    <br><br>
                                                     <div class="elementor-widget-container">
-                                                        House wife
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-5da7efb elementor-widget elementor-widget-button" data-id="5da7efb" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </section>
-                            </div>
-                        </div>
-                        <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0d7cb1f elementor-invisible" data-id="0d7cb1f" data-element_type="column" data-settings='{"animation":"fadeIn"}'>
-                            <div class="elementor-widget-wrap elementor-element-populated">
-                                <div class="elementor-element elementor-element-996e6bf elementor-widget elementor-widget-image" data-id="996e6bf" data-element_type="widget" data-widget_type="image.default">
-                                    <div class="elementor-widget-container">
-                                        <img
-                                            fetchpriority="high"
-                                            decoding="async"
-                                            width="445"
-                                            height="586"
-                                            src="wp-content/uploads/2022/01/home-page-7th-sec-img.jpg"
-                                            class="elementor-animation-float attachment-large size-large"
-                                            alt=""
-                                            srcset="
-                                                wp-content/uploads/2022/01/home-page-7th-sec-img.jpg         445w,
-                                                swp-content/uploads/2022/01/home-page-7th-sec-img-228x300.jpg 228w
-                                            "
-                                            sizes="(max-width: 445px) 100vw, 445px"
-                                        />
-                                    </div>
-                                </div>
-                                <div
-                                    class="elementor-element elementor-element-ddaa989 elementor-absolute elementor-widget elementor-widget-image"
-                                    data-id="ddaa989"
-                                    data-element_type="widget"
-                                    data-settings='{"_position":"absolute"}'
-                                    data-widget_type="image.default"
-                                >
-                                    <div class="elementor-widget-container">
-                                        <img
-                                            decoding="async"
-                                            width="444"
-                                            height="550"
-                                            src="wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg"
-                                            class="attachment-full size-full"
-                                            alt=""
-                                            srcset="
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg.jpg         444w,
-                                                https://elementorpress.com/templatekit-pro/layout31/wp-content/uploads/2022/01/home-page-5th-sec-img-bg-242x300.jpg 242w
-                                            "
-                                            sizes="(max-width: 444px) 100vw, 444px"
-                                        />
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </section>
-                <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-900c9b2 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="900c9b2"
-                    data-element_type="section"
-                >
-                    <div class="elementor-container elementor-column-gap-default">
-                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-288e4ec" data-id="288e4ec" data-element_type="column">
-                            <div class="elementor-widget-wrap elementor-element-populated">
                                 <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-f06cd56 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="f06cd56"
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-dd571c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="dd571c0"
                                     data-element_type="section"
+                                    data-settings='{"background_background":"classic"}'
                                 >
-                                    <div class="elementor-container elementor-column-gap-default">
+                                    <div class="elementor-background-overlay"></div> 
+
+                                    <div class="elementor-container elementor-column-gap-default courses">
                                         <div
-                                            class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-1ce41d0 elementor-invisible"
-                                            data-id="1ce41d0"
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a0a86c6 elementor-invisible"
+                                            data-id="a0a86c6"
                                             data-element_type="column"
                                             data-settings='{"background_background":"classic","animation":"fadeInDown"}'
                                         >
                                             <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-9110c8f elementor-widget elementor-widget-text-editor" data-id="9110c8f" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <div class="elementor-element elementor-element-82f73bf elementor-widget elementor-widget-text-editor" data-id="82f73bf" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <p>
-                                                            “Saurabh is very good at what he do. I have attended his Mind Power Workshop, I feel everyone should do it at least once.
-                                                        </p>
+                                                        7th std -
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-985baa2 elementor-widget elementor-widget-heading" data-id="985baa2" data-element_type="widget" data-widget_type="heading.default">
+                                                <div class="elementor-element elementor-element-35fd0e2 elementor-widget elementor-widget-heading" data-id="35fd0e2" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Dr. Rashmi Deshkar</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span> 
                                                     </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-10b4483 elementor-widget elementor-widget-text-editor" data-id="10b4483" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <br><br>
                                                     <div class="elementor-widget-container">
-                                                        Doctor in Homeopath
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-3aaee35 elementor-widget elementor-widget-button" data-id="3aaee35" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                         <div
-                                            class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-d6fe304 elementor-invisible"
-                                            data-id="d6fe304"
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4f56a5a elementor-invisible"
+                                            data-id="4f56a5a"
                                             data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInRight"}'
+                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
                                         >
                                             <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-08e5587 elementor-widget elementor-widget-text-editor" data-id="08e5587" data-element_type="widget" data-widget_type="text-editor.default">
+                                                <div class="elementor-element elementor-element-77f1820 elementor-widget elementor-widget-text-editor" data-id="77f1820" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        <p>
-                                                            “I found Saurabh Sir’s session so useful for todays generation that I joined his team.”
-                                                        </p>
+                                                        8th std -
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-90cd909 elementor-widget elementor-widget-heading" data-id="90cd909" data-element_type="widget" data-widget_type="heading.default">
+                                                <div class="elementor-element elementor-element-1660a25 elementor-widget elementor-widget-heading" data-id="1660a25" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Mrs. Sheetal Tiwari</h2>
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                    </div>
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-116f469 elementor-widget elementor-widget-button" data-id="116f469" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-element elementor-element-c0ee04b elementor-widget elementor-widget-text-editor" data-id="c0ee04b" data-element_type="widget" data-widget_type="text-editor.default">
+                                            </div>
+                                        </div> 
+                                    </div>
+                                </section> 
+
+                                <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-9a7350d elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="9a7350d"
+                                    data-element_type="section"
+                                    data-settings='{"background_background":"classic"}' style="margin-top: 8%;"
+                                >
+                                    <div class="elementor-background-overlay"></div>
+                                    <center>
+                                    	<p>Google Meet, Microsoft Team </p>
+                                    
+	                                    <div class="elementor-element elementor-element-241c2f9 elementor-widget elementor-widget-heading" data-id="241c2f9" data-element_type="widget" data-widget_type="heading.default">
+	                                        <div class="elementor-widget-container">
+	                                            <h2 class="elementor-heading-title elementor-size-default">Available Online</h2>
+	                                        </div>
+	                                    </div><br><br>
+
+                                    </center>
+                                    <div class="elementor-container elementor-column-gap-default courses">
+                                        <div
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element  elementor-element-a913348 elementor-invisible"
+                                            data-id="a913348"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInDown"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated ">
+                                                <div class="elementor-element elementor-element-7c5a109 elementor-widget elementor-widget-text-editor" data-id="7c5a109" data-element_type="widget" data-widget_type="text-editor.default">
                                                     <div class="elementor-widget-container">
-                                                        Teacher
+                                                        2 to 5 Days-
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Memory Power Workshop</h2>
+                                                        <span class="elementor-icon-list-text">
+                                                        	Memory workshop is a
+															combination of 20 Mind and Memory Power techniques which makes
+															the learning and Memorization very easy for students. This workshop
+															will make students to fall in love with studies as well as make them
+															more disciplined. This program helps develop more interest in
+															studies, making students more confident and capable of memorizing
+															studies in very less time. Mr. Saurabh Vidyadhar has introduced the
+															concept of one attempt learning, means, a student will be able to
+															memorize any topic in one attempt after enough practicing the
+															Memory Techniques.
+                                                        </span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div>
+                                                 
+                                                <div class="elementor-element elementor-element-72c54eb elementor-widget elementor-widget-button" data-id="72c54eb" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-784285e elementor-invisible"
+                                            data-id="784285e"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-af12634 elementor-widget elementor-widget-text-editor" data-id="af12634" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        5th std -
+                                                    </div>
+                                                    
+                                                </div>
+                                                <div class="elementor-element elementor-element-257b97e elementor-widget elementor-widget-heading" data-id="257b97e" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                    </div><br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-d19a88a elementor-widget elementor-widget-button" data-id="d19a88a" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9c9169d elementor-invisible"
+                                            data-id="9c9169d"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeInUp"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-36921af elementor-widget elementor-widget-text-editor" data-id="36921af" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        6th std -
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-4b8679c elementor-widget elementor-widget-heading" data-id="4b8679c" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-5da7efb elementor-widget elementor-widget-button" data-id="5da7efb" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-c0ac0ad elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="c0ac0ad"
-                                    data-element_type="section"
-                                >
-                                    <div class="elementor-container elementor-column-gap-default">
-                                        <div
-                                            class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-850d621 elementor-invisible"
-                                            data-id="850d621"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInLeft"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-2d10a2d elementor-widget elementor-widget-text-editor" data-id="2d10a2d" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <p>
-                                                            “Both of my children showed so much improvements after attending Saurabh’s Memory Sessions. The Techniques are very useful and result oriented”
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-8acafe4 elementor-widget elementor-widget-heading" data-id="8acafe4" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Dr. Kavita Ganar </h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-b5ae842 elementor-widget elementor-widget-text-editor" data-id="b5ae842" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        M.B.B.S.
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div
-                                            class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible"
-                                            data-id="bbfcab0"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeInRight"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-29f1724 elementor-widget elementor-widget-text-editor" data-id="29f1724" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        <p> 
-                                                            “My decision of attending Saurabh Sir’s Memory Workshop proved to be the absolutely right. I loved the content and the techniques are really very easy”.
-                                                        </p>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-82df782 elementor-widget elementor-widget-heading" data-id="82df782" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Dr. Tungatrushna</h2>
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-edeab48 elementor-widget elementor-widget-text-editor" data-id="edeab48" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        Corona Warrior
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </section> 
+
                             </div>
                         </div>
                     </div>
                 </section> 
-
-                <section class="elementor-section elementor-inner-section elementor-element elementor-element-c0ac0ad elementor-section-boxed elementor-section-height-default elementor-section-height-default"  data-id="c0ac0ad" data-element_type="section" >
-                    <center><h2 class="elementor-heading-title elementor-size-default" style="padding-bottom: 3%;">Feedback Videos</h2></center>
-                    <div class="elementor-container elementor-column-gap-default" >
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                             <div id="player1"></div>
-                        </div>
-
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                            <div id="player2"></div>
-                        </div>
-                    </div>
-                    <div class="elementor-container elementor-column-gap-default" >
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                             <div id="player3"></div>
-                        </div>
-
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                            <div id="player4"></div>
-                        </div>
-                    </div>  
-                </section>
                 <section class="elementor-section elementor-top-section elementor-element elementor-element-6145f21 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
                             data-id="6145f21"
                             data-element_type="section"
@@ -847,10 +830,12 @@
                         </div> 
                     </div>
                 </section>
-            </div>
-        </div>
 
-        <?php include 'footer.php';?>        
+            </div>
+        </div> 
+
+
+        <?php include 'footer.php';?>
 
         <link rel="stylesheet" id="elementor-post-5958-css" href="wp-content/uploads/elementor/css/post-5958d6f3.css?ver=1643613633" type="text/css" media="all" />
         <link rel="stylesheet" id="metform-ui-css" href="wp-content/plugins/metform/public/assets/css/metform-uie1fc.css?ver=2.1.1" type="text/css" media="all" />
@@ -957,7 +942,7 @@
                     hello_header_menu_layout: "horizontal",
                     hello_footer_logo_type: "logo",
                 },
-                post: { id: 4573, title: "Testimonials%20%E2%80%93%20wellbeing", excerpt: "", featuredImage: false },
+                post: { id: 4438, title: "Price%20%E2%80%93%20wellbeing", excerpt: "", featuredImage: false },
             };
             /* ]]> */
         </script>
@@ -972,61 +957,5 @@
         <script type="text/javascript" src="wp-content/plugins/elementor/assets/lib/swiper/swiper.min91ee.js?ver=2.5.3" id="swiper-js"></script>
         <script type="text/javascript" src="wp-content/plugins/events-addon-for-elementor/elementor/js/naevents-elementoref10.js?ver=6.5.3" id="naevents-elementor-js"></script>
         <script type="text/javascript" src="wp-content/plugins/events-addon-for-elementor/assets/js/Chart.mind315.js?ver=2.6.0" id="naevents-chartjs-js"></script>
-
-        <script src="https://www.youtube.com/iframe_api"></script>
-          <script>
-            var players = [];
-            function onYouTubeIframeAPIReady() {
-              // Create the first player
-              var player1 = new YT.Player('player1', {
-                height: '315',
-                width: '560',
-                videoId: 'G5GB6zhKm7s', // Replace with your YouTube video ID
-                events: {
-                  'onStateChange': onPlayerStateChange
-                }
-              });
-
-              // Create the second player
-              var player2 = new YT.Player('player2', {
-                height: '315',
-                width: '560',
-                videoId: 'iv1EgOr2OdU', // Replace with your YouTube video ID
-                events: {
-                  'onStateChange': onPlayerStateChange
-                }
-              });
-              var player3 = new YT.Player('player3', {
-                height: '315',
-                width: '560',
-                videoId: 'G5GB6zhKm7s', // Replace with your YouTube video ID
-                events: {
-                  'onStateChange': onPlayerStateChange
-                }
-              });
-
-              // Create the second player
-              var player4 = new YT.Player('player4', {
-                height: '315',
-                width: '560',
-                videoId: 'iv1EgOr2OdU', // Replace with your YouTube video ID
-                events: {
-                  'onStateChange': onPlayerStateChange
-                }
-              });
-
-              players.push(player1, player2,player3, player4);
-            }
-
-            function onPlayerStateChange(event) {
-              if (event.data == YT.PlayerState.PLAYING) {
-                for (var i = 0; i < players.length; i++) {
-                  if (players[i] !== event.target) {
-                    players[i].pauseVideo();
-                  }
-                }
-              }
-            }
-          </script>
     </body> 
 </html>
