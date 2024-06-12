@@ -498,6 +498,44 @@
                         </div>
                     </div>
                 </section>
+
+                <section class="elementor-section elementor-inner-section elementor-element elementor-element-c0ac0ad elementor-section-boxed elementor-section-height-default elementor-section-height-default"  data-id="c0ac0ad" data-element_type="section" >
+                    <center><h2 class="elementor-heading-title elementor-size-default" style="margin-top:5%;padding-bottom: 3%;">Feedback Videos</h2></center>
+                    <div class="elementor-container elementor-column-gap-default" >
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
+                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                             <div id="player1"></div>
+                        </div>
+
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
+                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                            <div id="player2"></div>
+                        </div>
+                    </div>
+                    <div class="elementor-container elementor-column-gap-default" >
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
+                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                             <div id="player3"></div>
+                        </div>
+
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
+                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                            <div id="player4"></div>
+                        </div>
+                    </div> 
+                    <div class="elementor-container elementor-column-gap-default" >
+                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
+                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+                             <div id="player5"></div>
+                        </div>
+
+                        <!-- <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                            <div id="player4"></div>
+                        </div> -->
+                    </div>  
+                </section>
+
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-ea34eb5 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="ea34eb5"
@@ -753,31 +791,7 @@
                     </div>
                 </section> 
 
-                <section class="elementor-section elementor-inner-section elementor-element elementor-element-c0ac0ad elementor-section-boxed elementor-section-height-default elementor-section-height-default"  data-id="c0ac0ad" data-element_type="section" >
-                    <center><h2 class="elementor-heading-title elementor-size-default" style="padding-bottom: 3%;">Feedback Videos</h2></center>
-                    <div class="elementor-container elementor-column-gap-default" >
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                             <div id="player1"></div>
-                        </div>
-
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                            <div id="player2"></div>
-                        </div>
-                    </div>
-                    <div class="elementor-container elementor-column-gap-default" >
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                             <div id="player3"></div>
-                        </div>
-
-                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bbfcab0 elementor-invisible" data-id="bbfcab0"  data-element_type="column" data-settings='{"background_background":"classic","animation":"fadeInRight"}' style="padding: 2%;">
-                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/G5GB6zhKm7s?si=JVl1FAr6bwrl7rEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-                            <div id="player4"></div>
-                        </div>
-                    </div>  
-                </section>
+                
                 <section class="elementor-section elementor-top-section elementor-element elementor-element-6145f21 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
                             data-id="6145f21"
                             data-element_type="section"
@@ -981,7 +995,7 @@
               var player1 = new YT.Player('player1', {
                 height: '315',
                 width: '560',
-                videoId: 'G5GB6zhKm7s', // Replace with your YouTube video ID
+                videoId: 'khmczU3G5CU', // Replace with your YouTube video ID
                 events: {
                   'onStateChange': onPlayerStateChange
                 }
@@ -991,7 +1005,7 @@
               var player2 = new YT.Player('player2', {
                 height: '315',
                 width: '560',
-                videoId: 'iv1EgOr2OdU', // Replace with your YouTube video ID
+                videoId: 'bQZqxGBo_us', // Replace with your YouTube video ID
                 events: {
                   'onStateChange': onPlayerStateChange
                 }
@@ -999,7 +1013,7 @@
               var player3 = new YT.Player('player3', {
                 height: '315',
                 width: '560',
-                videoId: 'G5GB6zhKm7s', // Replace with your YouTube video ID
+                videoId: 'bnGlemp2EOA', // Replace with your YouTube video ID
                 events: {
                   'onStateChange': onPlayerStateChange
                 }
@@ -1009,13 +1023,23 @@
               var player4 = new YT.Player('player4', {
                 height: '315',
                 width: '560',
-                videoId: 'iv1EgOr2OdU', // Replace with your YouTube video ID
+                videoId: 'hsfwtYwXqGk', // Replace with your YouTube video ID
                 events: {
                   'onStateChange': onPlayerStateChange
                 }
               });
 
-              players.push(player1, player2,player3, player4);
+              // Create the second player
+              var player4 = new YT.Player('player5', {
+                height: '315',
+                width: '560',
+                videoId: 'ylU4KCI_rIU', // Replace with your YouTube video ID
+                events: {
+                  'onStateChange': onPlayerStateChange
+                }
+              });
+
+              players.push(player1, player2,player3, player4, player5);
             }
 
             function onPlayerStateChange(event) {
