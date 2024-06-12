@@ -1,13 +1,11 @@
  <!DOCTYPE html>
-<html lang="en-US">
-    <!-- Mirrored from elementorpress.com/templatekit-pro/layout31/team/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 May 2024 09:58:43 GMT -->
-    <!-- Added by HTTrack -->
-    <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <!-- /Added by HTTrack -->
+<html lang="en-US"> 
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8" /> 
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Team &#8211; wellbeing</title>
+        <title>Team </title>
+        <link rel="icon" type="image/x-icon" href="wp-content/uploads/2021/12/logo.png">
         <meta name="robots" content="max-image-preview:large" />
         <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Feed" href=" feed/index.html" />
         <link rel="alternate" type="application/rss+xml" title="wellbeing &raquo; Comments Feed" href=" comments/feed/index.html" />

@@ -316,7 +316,7 @@
         <a href="wp-content/uploads/2022/01/video-image-1a.JPG" class="big">
             <img src="wp-content/uploads/2022/01/video-image-1a.JPG" alt="" title=" " />
         </a>
-        <a href="wp-content/uploads/2022/01/video-image-2a.JPG"><img src="wp-content/uploads/2022/01/video-image-2a.JPG" alt="" title=""/></a>
+        <a href="wp-content/uploads/2022/01/video-image-2a.jpg"><img src="wp-content/uploads/2022/01/video-image-2a.jpg" alt="" title=""/></a>
         <a href="wp-content/uploads/2022/01/video-image-3a.JPG"><img src="wp-content/uploads/2022/01/video-image-3a.JPG" alt="" title=" "/></a>
         <a href="wp-content/uploads/2022/01/video-image-4a.JPG"><img src="wp-content/uploads/2022/01/video-image-4a.JPG" alt="" title=""/></a>
         <a href="wp-content/uploads/2022/01/video-image-5a.JPG"><img src="wp-content/uploads/2022/01/video-image-5a.JPG" alt="" title=""/></a>

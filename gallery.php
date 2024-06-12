@@ -4,7 +4,8 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Mindata &#8211; Gallery</title>
+        <title>  Gallery</title>
+        <link rel="icon" type="image/x-icon" href="wp-content/uploads/2021/12/logo.png">
         <meta name="robots" content="max-image-preview:large" />
         <link rel="alternate" type="application/rss+xml" title="Mindata &raquo; Feed" href="feed/index.html" />
         <link rel="alternate" type="application/rss+xml" title="Mindata &raquo; Comments Feed" href="comments/feed/index.html" />
