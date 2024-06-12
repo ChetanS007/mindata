@@ -636,16 +636,12 @@
                         </div>
                     </div>
                 </section>
-                <section
-                    class="elementor-section elementor-top-section elementor-element elementor-element-a99a828 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                    data-id="a99a828"
-                    data-element_type="section"
-                >
+                <section class="elementor-section elementor-top-section elementor-element elementor-element-a99a828 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a99a828" data-element_type="section">
                     <div class="elementor-container elementor-column-gap-default">
                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9cc8942" data-id="9cc8942" data-element_type="column">
                             <div class="elementor-widget-wrap elementor-element-populated">
                                 <div
-                                    class="elementor-element elementor-element-bed405e elementor-invisible elementor-widget elementor-widget-heading"
+                                    class="elementor-element elementor-element-bed405e elementor-widget elementor-widget-heading animated fadeInLeft"
                                     data-id="bed405e"
                                     data-element_type="widget"
                                     data-settings='{"_animation":"fadeInLeft"}'
@@ -654,13 +650,207 @@
                                     <div class="elementor-widget-container">
                                         <h2 class="elementor-heading-title elementor-size-default">Contact Our Friendly Reception Staff with any Enquiry</h2>
                                     </div>
-                                </div> 
-
-
+                                </div>
+                                <div
+                                    class="elementor-element elementor-element-85e05c7 elementor-widget elementor-widget-metform animated fadeInDown"
+                                    data-id="85e05c7"
+                                    data-element_type="widget"
+                                    data-settings='{"_animation":"fadeInDown"}'
+                                    data-widget_type="metform.default"
+                                >
+                                    <div class="elementor-widget-container">
+                                        <div id="mf-response-props-id-4161" data-editswitchopen="" data-erroricon="fas fa-exclamation-triangle" data-successicon="fas fa-check" data-messageposition="top" class="mf-scroll-top-no">
+                                            <div class="formpicker_warper formpicker_warper_editable" data-metform-formpicker-key="4161">
+                                                <div class="elementor-widget-container">
+                                                    <div
+                                                        id="metform-wrap-85e05c7-4161"
+                                                        class="mf-form-wrapper"
+                                                        data-form-id="4161"
+                                                        data-action="https://elementorpress.com/templatekit-pro/layout31/wp-json/metform/v1/entries/insert/4161"
+                                                        data-wp-nonce="9c1e96fdc2"
+                                                        data-form-nonce="19dca4a375"
+                                                        data-stop-vertical-effect=""
+                                                    >
+                                                        <form class="metform-form-content" action="sendmail/send.php" method="post">
+                                                            <div class="mf-main-response-wrap mf-response-msg-wrap" data-show="0"><div class="mf-response-msg"></div></div>
+                                                            <div class="metform-form-main-wrapper">
+                                                                <div data-elementor-type="wp-post" data-elementor-id="4161" class="elementor elementor-4161" data-elementor-settings="[]">
+                                                                    <div class="elementor-section-wrap">
+                                                                        <section
+                                                                            class="elementor-section elementor-top-section elementor-element elementor-element-8a37600 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                            data-id="8a37600"
+                                                                            data-element_type="section"
+                                                                            data-settings="{&amp;quot;background_background&amp;quot;:&amp;quot;classic&amp;quot;}"
+                                                                        >
+                                                                            <div class="elementor-container elementor-column-gap-no">
+                                                                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-27aeaa5f" data-id="27aeaa5f" data-element_type="column">
+                                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                        <section
+                                                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-5a13b704 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                                            data-id="5a13b704"
+                                                                                            data-element_type="section"
+                                                                                        >
+                                                                                            <div class="elementor-container elementor-column-gap-extended">
+                                                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-422e4bc" data-id="422e4bc" data-element_type="column">
+                                                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                        <div
+                                                                                                            class="elementor-element elementor-element-1689e531 elementor-widget elementor-widget-mf-text"
+                                                                                                            data-id="1689e531"
+                                                                                                            data-element_type="widget"
+                                                                                                            data-settings="{&amp;quot;mf_input_name&amp;quot;:&amp;quot;mf-first-name&amp;quot;}"
+                                                                                                            data-widget_type="mf-text.default"
+                                                                                                        >
+                                                                                                            <div class="elementor-widget-container">
+                                                                                                                <div class="mf-input-wrapper">
+                                                                                                                    <input type="text" class="mf-input" id="mf-input-text-1689e531" name="name" placeholder="Your Name " aria-invalid="false" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-36de2f10"
+                                                                                                    data-id="36de2f10"
+                                                                                                    data-element_type="column"
+                                                                                                >
+                                                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                        <div
+                                                                                                            class="elementor-element elementor-element-7999e561 elementor-widget elementor-widget-mf-text"
+                                                                                                            data-id="7999e561"
+                                                                                                            data-element_type="widget"
+                                                                                                            data-settings="{&amp;quot;mf_input_name&amp;quot;:&amp;quot;Your Email:&amp;quot;}"
+                                                                                                            data-widget_type="mf-text.default"
+                                                                                                        >
+                                                                                                            <div class="elementor-widget-container">
+                                                                                                                <div class="mf-input-wrapper">
+                                                                                                                    <input type="text" class="mf-input" id="mf-input-text-7999e561" name="email" placeholder="Your Email " aria-invalid="false" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </section>
+                                                                                        <section
+                                                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-553e86e1 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                                            data-id="553e86e1"
+                                                                                            data-element_type="section"
+                                                                                        >
+                                                                                            <div class="elementor-container elementor-column-gap-extended">
+                                                                                                <div
+                                                                                                    class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7288dc94"
+                                                                                                    data-id="7288dc94"
+                                                                                                    data-element_type="column"
+                                                                                                >
+                                                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                        <div
+                                                                                                            class="elementor-element elementor-element-723d4805 elementor-widget elementor-widget-mf-email"
+                                                                                                            data-id="723d4805"
+                                                                                                            data-element_type="widget"
+                                                                                                            data-settings="{&amp;quot;mf_input_name&amp;quot;:&amp;quot;phone&amp;quot;}"
+                                                                                                            data-widget_type="mf-email.default"
+                                                                                                        >
+                                                                                                            <div class="elementor-widget-container">
+                                                                                                                <div class="mf-input-wrapper">
+                                                                                                                    <input type="number" class="mf-input" id="mf-input-email-723d4805" name="mobile" placeholder="Phone " aria-invalid="false" value="" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7288dc94"
+                                                                                                    data-id="7288dc94"
+                                                                                                    data-element_type="column"
+                                                                                                >
+                                                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                        <div
+                                                                                                            class="elementor-element elementor-element-723d4805 elementor-widget elementor-widget-mf-email"
+                                                                                                            data-id="723d4805"
+                                                                                                            data-element_type="widget"
+                                                                                                            data-settings="{&amp;quot;mf_input_name&amp;quot;:&amp;quot;phone&amp;quot;}"
+                                                                                                            data-widget_type="mf-email.default"
+                                                                                                        >
+                                                                                                            <div class="elementor-widget-container">
+                                                                                                                <div class="mf-input-wrapper">
+                                                                                                                    <input type="text" class="mf-input" id="mf-input-email-723d4805" name="subject" placeholder="Subject  " aria-invalid="false" value="" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </section>
+                                                                                        <section
+                                                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-19225d1f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                                                            data-id="19225d1f"
+                                                                                            data-element_type="section"
+                                                                                        >
+                                                                                            <div class="elementor-container elementor-column-gap-extended">
+                                                                                                <div
+                                                                                                    class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4bbdd954"
+                                                                                                    data-id="4bbdd954"
+                                                                                                    data-element_type="column"
+                                                                                                >
+                                                                                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                                                                                        <div
+                                                                                                            class="elementor-element elementor-element-4462219f elementor-widget elementor-widget-mf-textarea"
+                                                                                                            data-id="4462219f"
+                                                                                                            data-element_type="widget"
+                                                                                                            data-settings="{&amp;quot;mf_input_name&amp;quot;:&amp;quot;mf-comment&amp;quot;}"
+                                                                                                            data-widget_type="mf-textarea.default"
+                                                                                                        >
+                                                                                                            <div class="elementor-widget-container">
+                                                                                                                <div class="mf-input-wrapper">
+                                                                                                                    <textarea
+                                                                                                                        class="mf-input mf-textarea"
+                                                                                                                        id="mf-input-text-area-4462219f"
+                                                                                                                        name="message"
+                                                                                                                        placeholder="Message"
+                                                                                                                        cols="30"
+                                                                                                                        rows="10"
+                                                                                                                        aria-invalid="false"
+                                                                                                                        data-gramm="false"
+                                                                                                                        wt-ignore-input="true"
+                                                                                                                    ></textarea>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div
+                                                                                                            class="elementor-element elementor-element-403ee486 mf-btn--center elementor-widget elementor-widget-mf-button"
+                                                                                                            data-id="403ee486"
+                                                                                                            data-element_type="widget"
+                                                                                                            data-widget_type="mf-button.default"
+                                                                                                        >
+                                                                                                            <div class="elementor-widget-container">
+                                                                                                                <div class="mf-btn-wraper" data-mf-form-conditional-logic-requirement="">
+                                                                                                                    <button type="submit" class="metform-btn metform-submit-btn" name="send" id=""><span>Send Message </span></button>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </section>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </section>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </form>
+                                                    </div> 
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </section>
+
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-5caf33f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
                     data-id="5caf33f"

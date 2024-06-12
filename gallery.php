@@ -12,6 +12,7 @@
         <link rel="stylesheet" id="elementor-frontend-css" href="wp-content/plugins/elementor/assets/css/frontend-lite.mine248.css?ver=3.5.4" type="text/css" media="all" />
         <link rel="stylesheet" id="elementor-post-6-css" href="wp-content/uploads/elementor/css/post-60c5e.css?ver=1643613599" type="text/css" media="all" />
         <link rel="stylesheet" id="font-awesome-5-all-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/all.mine248.css?ver=3.5.4" type="text/css" media="all" />
+
         <link rel="stylesheet" id="font-awesome-4-shim-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.mine248.css?ver=3.5.4" type="text/css" media="all" />
         <link rel="stylesheet" id="elementor-post-2856-css" href="wp-content/uploads/elementor/css/post-28560c5e.css?ver=1643613599" type="text/css" media="all" />
         <style id="wp-emoji-styles-inline-css" type="text/css">
@@ -299,6 +300,24 @@
                 font-size: 1.5em;
                 line-height: 1.6;
             }
+
+            @media screen and (max-width: 600px){
+                .container .gallery a img{
+                    width: 100% !important;
+                    float: none !important;
+                    max-width: 100%!important;
+                    height: 37vh !important;
+                }
+                .gallery{
+                    text-align: center;
+                } 
+                .head-padd {
+                    padding-top: 15%!important;
+                }
+                .w-50{
+                    width: 50%;
+                }
+            }
         </style>
         <link rel="stylesheet" id="niche-frame-css" href="wp-content/plugins/events-addon-for-elementor/assets/css/niche-frame5152.css?ver=1.0" type="text/css" media="all" />
         <link rel="stylesheet" id="font-awesome-css" href="wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min1849.css?ver=4.7.0" type="text/css" media="all" />
@@ -319,6 +338,9 @@
         <link rel="stylesheet" id="elementor-post-4744-css" href="wp-content/uploads/elementor/css/post-4744821f.css?ver=1643613670" type="text/css" media="all" />
         <link rel="stylesheet" id="ekit-widget-styles-css" href="wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles91ee.css?ver=2.5.3" type="text/css" media="all" />
         <link rel="stylesheet" id="ekit-responsive-css" href="wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive91ee.css?ver=2.5.3" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-5-css" href="wp-content/uploads/elementor/css/post-50c5e.css?ver=1643613599" type="text/css" media="all" />
+        <link rel="stylesheet" id="elementor-post-32-css" href="wp-content/uploads/elementor/css/post-320a99.css?ver=1643634061" type="text/css" media="all" />
+
         <link
             rel="stylesheet"
             id="google-fonts-1-css"
@@ -436,8 +458,7 @@
                                         <div class="naeep-tab-content">
                                             <div class="naeep-tab active" id="naeep-1all">
                                                 <div data-elementor-type="section" data-elementor-id="5927" class="elementor elementor-5927" data-elementor-settings="[]">
-                                                    <div class="elementor-section-wrap"> 
-                                                        <br><br><br>
+                                                    <div class="elementor-section-wrap" style="border: 0;">  
                                                         <?php include 'image-box.php';?>
                                                         <br><br><br>   
                                                     </div>
@@ -450,6 +471,77 @@
                         </div>
                     </div>
                 </section>  
+
+                <section
+                            class="elementor-section elementor-top-section elementor-element elementor-element-6145f21 animated-slow elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible"
+                            data-id="6145f21"
+                            data-element_type="section"
+                            data-settings='{"animation":"fadeInRight"}'
+                        >   
+                            <div class="elementor-element elementor-element-241c2f9 elementor-widget elementor-widget-heading" data-id="241c2f9" data-element_type="widget" data-widget_type="heading.default">
+                                <div class="elementor-widget-container">
+                                    <center><h2 class="elementor-heading-title elementor-size-default">News Collaboration</h2></center>
+                                </div>
+                            </div>
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-25 w-50 elementor-top-column elementor-element elementor-element-37a8708" data-id="37a8708" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div
+                                            class="elementor-element elementor-element-9ef91ca elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                            data-id="9ef91ca"
+                                            data-element_type="widget"
+                                            data-widget_type="image.default"
+                                        >
+                                            <div class="elementor-widget-container">
+                                                <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo1.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 w-50 elementor-top-column elementor-element elementor-element-66c1153" data-id="66c1153" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div
+                                            class="elementor-element elementor-element-aee5227 elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                            data-id="aee5227"
+                                            data-element_type="widget"
+                                            data-widget_type="image.default"
+                                        >
+                                            <div class="elementor-widget-container">
+                                                <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo2.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 w-50 elementor-top-column elementor-element elementor-element-04d71b7" data-id="04d71b7" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div
+                                            class="elementor-element elementor-element-3dfe0e4 elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                            data-id="3dfe0e4"
+                                            data-element_type="widget"
+                                            data-widget_type="image.default"
+                                        >
+                                            <div class="elementor-widget-container">
+                                                <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo3.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="elementor-column elementor-col-25 w-50 elementor-top-column elementor-element elementor-element-38567d9" data-id="38567d9" data-element_type="column">
+                                    <div class="elementor-widget-wrap elementor-element-populated">
+                                        <div
+                                            class="elementor-element elementor-element-d312488 elementor-widget__width-auto elementor-widget elementor-widget-image"
+                                            data-id="d312488"
+                                            data-element_type="widget"
+                                            data-widget_type="image.default"
+                                        >
+                                            <div class="elementor-widget-container">
+                                                <img loading="lazy" decoding="async" width="273" height="129" src="wp-content/uploads/2022/01/logo4.png" class="elementor-animation-float attachment-large size-large" alt="" />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div> 
+                            </div>
+                        </section>
             </div>
         </div>
     
@@ -578,6 +670,5 @@
         <script type="text/javascript" src="wp-content/plugins/events-addon-for-elementor/elementor/js/naevents-elementoref10.js?ver=6.5.3" id="naevents-elementor-js"></script>
         <script type="text/javascript" src="wp-content/plugins/events-addon-for-elementor/assets/js/Chart.mind315.js?ver=2.6.0" id="naevents-chartjs-js"></script>
     </body>
-
-    <!-- Mirrored from elementorpress.com/templatekit-pro/layout31/video-tutorials/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 17 May 2024 09:59:12 GMT -->
+ 
 </html>

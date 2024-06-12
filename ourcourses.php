@@ -440,7 +440,13 @@
                                                 <div class="elementor-element elementor-element-d4ad6a0 elementor-widget elementor-widget-heading" data-id="d4ad6a0" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2>
+                                                        <span class="elementor-icon-list-text">  (with Memory Techniques)</span>
                                                     </div>
 
                                                     <br><br>
@@ -478,8 +484,16 @@
                                                 <div class="elementor-element elementor-element-257b97e elementor-widget elementor-widget-heading" data-id="257b97e" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
-                                                    </div><br><br>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2>
+                                                        <span class="elementor-icon-list-text">  (with Memory Techniques)</span>
+                                                    </div>
+
+                                                    <br><br>
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">English</h2> 
                                                     </div>
@@ -512,7 +526,13 @@
                                                 <div class="elementor-element elementor-element-4b8679c elementor-widget elementor-widget-heading" data-id="4b8679c" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2>
+                                                        <span class="elementor-icon-list-text">  (with Memory Techniques)</span>
                                                     </div>
 
                                                     <br><br>
@@ -563,6 +583,10 @@
                                                     </div>
                                                     <br><br>
                                                     <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2> (with Memory Techniques)</span> 
+                                                    </div>
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">English</h2> 
                                                     </div>
                                                 </div> 
@@ -594,8 +618,15 @@
                                                 <div class="elementor-element elementor-element-1660a25 elementor-widget elementor-widget-heading" data-id="1660a25" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics)</span>
                                                     </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2>
+                                                        <span class="elementor-icon-list-text">  (with Memory Techniques)</span>
+                                                    </div>
+
                                                     <br><br>
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">English</h2> 
