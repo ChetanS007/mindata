@@ -664,6 +664,40 @@
                                 </div>
                             </div>
                         </section>
+
+                        <section
+                            class="elementor-section elementor-top-section elementor-element elementor-element-9a0a9fc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9a0a9fc" data-element_type="section" data-settings='{"background_background":"classic"}' style="margin-top: 5%;">
+
+                            <center><h2 class="elementor-heading-title elementor-size-default" style="margin-bottom: 2%;">Events</h2></center>
+
+                            <div class="elementor-container elementor-column-gap-default">
+                                <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3cf1b10" data-id="3cf1b10" data-element_type="column" data-settings='{"background_background":"classic"}'>
+
+                                    <div class="elementor-widget-wrap elementor-element-populated"> 
+                                        <div
+                                            class="elementor-element elementor-element-10ed006 elementor-widget elementor-widget-naevents_unique_schedule_tab"
+                                            data-id="10ed006"
+                                            data-element_type="widget"
+                                            data-widget_type="naevents_unique_schedule_tab.default"
+                                        >
+                                            <div class="elementor-widget-container"> 
+                                                <div class="naeep-tab-content">
+                                                    <div class="naeep-tab active" id="naeep-1all">
+                                                        <div data-elementor-type="section" data-elementor-id="5927" class="elementor elementor-5927" data-elementor-settings="[]">
+                                                            <div class="elementor-section-wrap" style="border: 0;">  
+                                                                <?php include 'events.php';?> 
+                                                            </div>
+                                                        </div>
+                                                    </div> 
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </section> 
+
+
                         <section
                             class="elementor-section elementor-top-section elementor-element elementor-element-6bebd55 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                             data-id="6bebd55"
@@ -720,6 +754,7 @@
                                         </section>
                                     </div>
                                 </div>
+
                                 <div
                                     class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0d41698 elementor-invisible"
                                     data-id="0d41698"
