@@ -427,6 +427,48 @@
                                     </center>
                                     <div class="elementor-container elementor-column-gap-default courses">
                                         <div
+                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4f56a5a elementor-invisible"
+                                            data-id="4f56a5a"
+                                            data-element_type="column"
+                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
+                                        >
+                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                <div class="elementor-element elementor-element-77f1820 elementor-widget elementor-widget-text-editor" data-id="77f1820" data-element_type="widget" data-widget_type="text-editor.default">
+                                                    <div class="elementor-widget-container">
+                                                        3th std -
+                                                    </div>
+                                                </div>
+                                                <div class="elementor-element elementor-element-1660a25 elementor-widget elementor-widget-heading" data-id="1660a25" data-element_type="widget" data-widget_type="heading.default">
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2>
+                                                        <span class="elementor-icon-list-text">  (with Memory Techniques)</span>
+                                                    </div>
+
+                                                    <br><br>
+                                                    <div class="elementor-widget-container">
+                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
+                                                    </div>
+                                                </div> 
+                                                <div class="elementor-element elementor-element-116f469 elementor-widget elementor-widget-button" data-id="116f469" data-element_type="widget" data-widget_type="button.default">
+                                                    <div class="elementor-widget-container">
+                                                        <div class="elementor-button-wrapper">
+                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
+                                                                <span class="elementor-button-content-wrapper">
+                                                                    <span class="elementor-button-text">Get Started</span>
+                                                                </span>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> 
+                                        <div
                                             class="elementor-column elementor-col-33 elementor-inner-column elementor-element  elementor-element-a913348 elementor-invisible"
                                             data-id="a913348"
                                             data-element_type="column"
@@ -511,7 +553,18 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> 
+                                    </div>
+                                </section>
+                                <section
+                                    class="elementor-section elementor-inner-section elementor-element elementor-element-dd571c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="dd571c0"
+                                    data-element_type="section"
+                                    data-settings='{"background_background":"classic"}'
+                                >
+                                    <div class="elementor-background-overlay"></div> 
+
+                                    <div class="elementor-container elementor-column-gap-default courses">
                                         <div
                                             class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9c9169d elementor-invisible"
                                             data-id="9c9169d"
@@ -554,17 +607,6 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </section>
-                                <section
-                                    class="elementor-section elementor-inner-section elementor-element elementor-element-dd571c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                    data-id="dd571c0"
-                                    data-element_type="section"
-                                    data-settings='{"background_background":"classic"}'
-                                >
-                                    <div class="elementor-background-overlay"></div> 
-
-                                    <div class="elementor-container elementor-column-gap-default courses">
                                         <div
                                             class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a0a86c6 elementor-invisible"
                                             data-id="a0a86c6"
@@ -580,7 +622,7 @@
                                                 <div class="elementor-element elementor-element-35fd0e2 elementor-widget elementor-widget-heading" data-id="35fd0e2" data-element_type="widget" data-widget_type="heading.default">
                                                     <div class="elementor-widget-container">
                                                         <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics), EVS (with Memory Techniques)</span> 
+                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics) </span> 
                                                     </div>
                                                     <br><br>
                                                     <div class="elementor-widget-container">
@@ -604,48 +646,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div
-                                            class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4f56a5a elementor-invisible"
-                                            data-id="4f56a5a"
-                                            data-element_type="column"
-                                            data-settings='{"background_background":"classic","animation":"fadeIn"}'
-                                        >
-                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                <div class="elementor-element elementor-element-77f1820 elementor-widget elementor-widget-text-editor" data-id="77f1820" data-element_type="widget" data-widget_type="text-editor.default">
-                                                    <div class="elementor-widget-container">
-                                                        8th std -
-                                                    </div>
-                                                </div>
-                                                <div class="elementor-element elementor-element-1660a25 elementor-widget elementor-widget-heading" data-id="1660a25" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">Maths</h2>
-                                                        <span class="elementor-icon-list-text">(with Vedic Mathematics)</span>
-                                                    </div>
-
-                                                    <br><br>
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">EVS</h2>
-                                                        <span class="elementor-icon-list-text">  (with Memory Techniques)</span>
-                                                    </div>
-
-                                                    <br><br>
-                                                    <div class="elementor-widget-container">
-                                                        <h2 class="elementor-heading-title elementor-size-default">English</h2> 
-                                                    </div>
-                                                </div> 
-                                                <div class="elementor-element elementor-element-116f469 elementor-widget elementor-widget-button" data-id="116f469" data-element_type="widget" data-widget_type="button.default">
-                                                    <div class="elementor-widget-container">
-                                                        <div class="elementor-button-wrapper">
-                                                            <a href="#" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-float" role="button">
-                                                                <span class="elementor-button-content-wrapper">
-                                                                    <span class="elementor-button-text">Get Started</span>
-                                                                </span>
-                                                            </a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div> 
+                                        
                                     </div>
                                 </section> 
 

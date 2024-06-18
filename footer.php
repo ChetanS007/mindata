@@ -174,23 +174,33 @@
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">About Mindata</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                    <a href="http://localhost/mindata/aboutus.php#mindata">About Mindata</a>
+                                                                    </span>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">About Saurabh</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                    <a href="http://localhost/mindata/aboutus.php#mindata">About Saurabh</a>
+                                                                    </span>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Gallery</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                    <a href="gallery.php">Gallery</a>
+                                                                    </span>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Our Courses</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                    <a href="ourcourses.php">Our Courses</a>
+                                                                    </span>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Our Team</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                    <a href="team.php">Our Team</a>
+                                                                    </span>
                                                                 </li> 
                                                             </ul>
                                                         </div>
@@ -218,11 +228,15 @@
                                                             <ul class="elementor-icon-list-items">
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Contact Us</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                        <a href="contactus.php">Contact Us</a> 
+                                                                    </span>
                                                                 </li>
                                                                 <li class="elementor-icon-list-item">
                                                                     <span class="elementor-icon-list-icon"> <i aria-hidden="true" class="fas fa-caret-right"></i> </span>
-                                                                    <span class="elementor-icon-list-text">Testimonals</span>
+                                                                    <span class="elementor-icon-list-text">
+                                                                    <a href="testimonials.php">Testimonals</a> 
+                                                                    </span>
                                                                 </li> 
                                                             </ul>
                                                         </div>
@@ -273,10 +287,10 @@
                                                         data-widget_type="text-editor.default"
                                                     >
                                                         <div class="elementor-widget-container">
-                                                            <p>+91 73878 24878</p>
+                                                            <p>+91 93221 30408</p>
                                                         </div>
                                                         <div class="elementor-widget-container">
-                                                            <p>+91 90111 79721</p>
+                                                            <p>+91 73878 24878</p>
                                                         </div>
 
                                                     </div> 

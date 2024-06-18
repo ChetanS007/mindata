@@ -504,7 +504,7 @@
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-0002916 elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="mindata"
                     data-id="0002916"
-                    data-element_type="section"
+                    data-element_type="section" style=" padding-top: 10%;"
                 >
                     <div class="elementor-container elementor-column-gap-default">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-40e017c" data-id="40e017c" data-element_type="column">
@@ -822,7 +822,7 @@
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-9d21395 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                     data-id="9d21395"
-                    data-element_type="section"
+                    data-element_type="section" 
                 >
                     <div class="elementor-container elementor-column-gap-default">
                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1b6fb70" data-id="1b6fb70" data-element_type="column">
@@ -986,7 +986,7 @@
                 <section
                     class="elementor-section elementor-top-section elementor-element elementor-element-0002916 elementor-section-boxed elementor-section-height-default elementor-section-height-default" id="saurabh"
                     data-id="0002916"
-                    data-element_type="section"
+                    data-element_type="section" style=" padding-top: 10%;"
                 >
                     <div class="elementor-container elementor-column-gap-default">
                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-40e017c" data-id="40e017c" data-element_type="column">

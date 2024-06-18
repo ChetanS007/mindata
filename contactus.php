@@ -580,12 +580,12 @@
                                                     <div class="elementor-widget-container">
                                                         <ul class="elementor-icon-list-items">
                                                             <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-text">Mindata Study Hub (OPC) Pvt. Ltd.<br>
-                                                                 16-Pannase Lay Out,
+                                                                <span class="elementor-icon-list-text">MINDATA CLASSES<br>
+                                                                 S.G. Boys’ and Girls’ High School
                                                                 </span>
                                                             </li>
                                                             <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-text"> Indraprastha Nagar, Nagpur-440022</span>
+                                                                <span class="elementor-icon-list-text"> Paratwada-444805</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -618,10 +618,10 @@
                                                     <div class="elementor-widget-container">
                                                         <ul class="elementor-icon-list-items">
                                                             <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-text">+91 73878 24878</span>
+                                                                <span class="elementor-icon-list-text">+91 93221 30408</span>
                                                             </li>
                                                             <li class="elementor-icon-list-item">
-                                                                <span class="elementor-icon-list-text">+91 90111 79721</span>
+                                                                <span class="elementor-icon-list-text">+91 73878 24878</span>
                                                             </li>
                                                         </ul>
                                                     </div>
@@ -869,13 +869,8 @@
                                                 height: 300px;
                                             }
                                         </style>
-                                        <div class="elementor-custom-embed"> 
-                                            <iframe 
-                                                frameborder="0"
-                                                scrolling="no"
-                                                marginheight="0"
-                                                marginwidth="0"
-                                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d232.64010197686613!2d79.04113682549422!3d21.102930715548084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd4bfecdabff639%3A0x705f45ad440aa595!2s16%2C%20Pannase%20Layout%2C%20Indraprastha%20Nagar%2C%20Swavalambi%20Nagar%2C%20Nagpur%2C%20Maharashtra%20440022!5e0!3m2!1sen!2sin!4v1718072997541!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                        <div class="elementor-custom-embed">  
+                                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1562.912240656062!2d77.51387725010932!3d21.301028445357275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bd6f47dbe58f469%3A0xf8396b6128e5cacf!2sSundarabai%20Gopalswami%20Boys%20High%20School%20%26%20Mahila%20Junior%20College%2C%20Civil%20Line%2C%20Paratwada!5e0!3m2!1sen!2sin!4v1718679151813!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                                         </div>
                                     </div>
                                 </div>

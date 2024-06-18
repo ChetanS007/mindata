@@ -166,12 +166,12 @@
                                                         font-size: 59px;
                                                     }
                                                 </style>
-                                                <h4 class="elementor-heading-title elementor-size-default">Secrete for a happy child/student</h4>
+                                                <h4 class="elementor-heading-title elementor-size-default">Secret for a happy child/student</h4>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-78d7c0b elementor-widget elementor-widget-heading" data-id="78d7c0b" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default">Learn how to enjoy studies and become a topper </h2>
+                                                <h2 class="elementor-heading-title elementor-size-default">Learn how to enjoy studies and become a topper !</h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-475e5ef elementor-widget elementor-widget-text-editor" data-id="475e5ef" data-element_type="widget" data-widget_type="text-editor.default">
@@ -915,7 +915,7 @@
                                     <div class="elementor-widget-wrap elementor-element-populated">
                                         <div class="elementor-element elementor-element-241c2f9 elementor-widget elementor-widget-heading" data-id="241c2f9" data-element_type="widget" data-widget_type="heading.default">
                                             <div class="elementor-widget-container">
-                                                <h2 class="elementor-heading-title elementor-size-default">Online Coaching Benefits</h2>
+                                                <h2 class="elementor-heading-title elementor-size-default">Our Coaching Class Benefits</h2>
                                             </div>
                                         </div>
                                         <div class="elementor-element elementor-element-4df42db elementor-widget elementor-widget-text-editor" data-id="4df42db" data-element_type="widget" data-widget_type="text-editor.default">
@@ -1334,7 +1334,7 @@
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-1a5db6b elementor-widget elementor-widget-heading" data-id="1a5db6b" data-element_type="widget" data-widget_type="heading.default">
                                                             <div class="elementor-widget-container">
-                                                                <h2 class="elementor-heading-title elementor-size-default">Do You Want to Transform Your Memory Power?</h2>
+                                                                <h2 class="elementor-heading-title elementor-size-default">Do you want to improve your Memory Power by 10X???</h2>
                                                             </div>
                                                         </div>
                                                         <div
@@ -1474,7 +1474,7 @@
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-c4d5a18 elementor-widget elementor-widget-heading" data-id="c4d5a18" data-element_type="widget" data-widget_type="heading.default">
                                                             <div class="elementor-widget-container">
-                                                                <h2 class="elementor-heading-title elementor-size-default">We Motivated your life and bring you to the next level of skill.</h2>
+                                                                <h2 class="elementor-heading-title elementor-size-default">We keep Motivating our Students and bring so many positive changes in their life style.</h2>
                                                             </div>
                                                         </div>
                                                         <div
@@ -1530,7 +1530,7 @@
                                                     <div class="elementor-widget-wrap elementor-element-populated">
                                                         <div class="elementor-element elementor-element-d9bf644 elementor-widget elementor-widget-heading" data-id="d9bf644" data-element_type="widget" data-widget_type="heading.default" >
                                                             <div class="elementor-widget-container">
-                                                                <h2 class="elementor-heading-title elementor-size-default">We Commited to Empowering Your Potential</h2>
+                                                                <h2 class="elementor-heading-title elementor-size-default">We are highly committed to empower your potential</h2>
                                                             </div>
                                                         </div>
                                                         <div
