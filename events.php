@@ -335,13 +335,14 @@
 <div class="container"> 
     <div class="gallery">
 
-        <a href="wp-content/uploads/2022/01/event-3.jpg"><img src="wp-content/uploads/2022/01/event-3.jpg" class="event-hide" style="visibility: hidden;" alt="" title=" "/></a>
+        
 
         <a href="wp-content/uploads/2022/01/event-1.jpg" class="big">
             <img src="wp-content/uploads/2022/01/event-1.jpg" alt="" title=" " />
         </a>
         <a href="wp-content/uploads/2022/01/event-2.jpg"><img src="wp-content/uploads/2022/01/event-2.jpg" alt="" title=""/></a>
-        <a href="wp-content/uploads/2022/01/event-4.jpg"><img src="wp-content/uploads/2022/01/event-4.jpg" class="event-hide" style="visibility: hidden;" alt="" title=""/></a> 
+        <a href="wp-content/uploads/2022/01/event-3.jpeg"><img src="wp-content/uploads/2022/01/event-3.jpeg" class="event-hide"   alt="" title=" "/></a>
+        <a href="wp-content/uploads/2022/01/event-4.jpeg"><img src="wp-content/uploads/2022/01/event-4.jpeg" class="event-hide"   alt="" title=""/></a> 
         <div class="clear"></div>
     </div>
     <br> 
